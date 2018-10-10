@@ -1,0 +1,3584 @@
+0,487258,algorithm complexity-theory computer-science big-o time-complexity,1
+0,11077857,php websocket comet long-polling,1
+0,2800964,javascript oop inheritance language-design prototype-programming,1
+0,4090518,javascript,1
+1,24902561,java gradle,1
+1,26607354,java android c android-ndk jni,1
+2,1155578,c linux arrays unix,1
+2,14200678,c++ c++11 stdasync,1
+3,5009324,node.js nginx concept,1
+3,19019117,mysql orm go,1
+4,20938520,google-compute-engine,1
+4,26910960,google-compute-engine,1
+5,11802823,android database cursor,1
+6,8875038,go stdout command-line-interface,1
+6,28031603,go,1
+6,28067076,go,1
+7,6146869,javascript jquery layout backbone.js,1
+8,6591213,git git-branch,1
+9,231767,python iterator generator yield,1
+10,19442616,git git-clean,1
+11,925423,java string concatenation string.format,1
+11,513600,java string performance string-formatting micro-optimization,1
+11,374464,language-agnostic messages servicebus,1
+11,11033256,java eclipse swing,1
+11,341971,java language-agnostic design-patterns idioms,1
+11,2768054,java coalesce,1
+11,5112212,haskell import instance monads either,1
+11,6176860,design-patterns strategy-pattern stateless,1
+11,2662043,java design-patterns oop model-view-controller strategy-pattern,1
+11,106586,design exception exception-handling error-handling,1
+11,11819052,design-patterns design java-ee exception-handling,1
+11,505454,c# oop design-patterns,1
+11,9249832,oop design-patterns solid-principles,1
+11,7703812,java generics constructor inner-classes,1
+11,8177725,java abstract inner-classes,1
+11,2741066,java constructor,1
+11,20943094,functional-programming java-8 monads java-stream,1
+11,22382453,java java-8 flatmap,1
+11,1445233,java generics,1
+11,1285110,singleton factory,1
+11,1802809,java caching weak-references,1
+11,4590298,regex whitespace,1
+11,4014589,java guava,1
+11,4689,fonts development-environment,1
+11,5079172,java multithreading tcp serversocket,1
+11,852665,java command-line progress-bar,1
+11,1568091,oop setter getter abstraction,1
+11,1626597,c# .net function return-value,1
+11,683041,java priority-queue,1
+11,9556235,java messaging rabbitmq,1
+11,17690740,objective-c osx grand-central-dispatch,1
+11,5932712,multithreading algorithm threadpool,1
+11,4463113,algorithm queue theory priority-queue,1
+11,869033,java object copy,1
+11,2597965,java,1
+11,11905630,java object inheritance clone instance,1
+11,5802118,java,1
+11,15790171,java clone deep-copy cloneable,1
+11,4199429,java clone copy-constructor deep-copy cloneable,1
+11,2427883,java clone copy-constructor,1
+11,2156120,java clone,1
+11,23756966,java performance java-7 java-8 jmh,1
+11,16275207,java jmx mbeans,1
+11,1204667,c# .net design-patterns oop,1
+11,1337811,c# design-patterns command-pattern,1
+11,316352,java final,1
+11,154314,java final,1
+11,137868,java design oop,1
+11,11398194,java eclipse plugins,1
+11,6927763,java immutability,1
+11,10047802,java static private public final,1
+11,3511120,java immutability javabeans pojo,1
+11,6040962,java multithreading concurrency threadpool futuretask,1
+11,3893084,java,1
+11,2898897,java javadoc,1
+11,1643733,multithreading uml sequence-diagram,1
+11,5133250,java jaxb unmarshalling,1
+11,12791025,java jmx,1
+11,1506663,java jaxb xml-serialization marshalling html-entities,1
+11,25921902,java arrays,1
+11,14534767,java stringbuilder,1
+11,395401,java debugging,1
+11,12537,documentation,1
+11,4192887,design-patterns architecture,1
+11,2701640,version-control continuous-integration hudson,1
+11,4258204,java ant hudson release-management,1
+11,925698,svn svn-switch migrating,1
+11,13362636,java generics observer-pattern,1
+11,10218895,java events observer-pattern observable,1
+11,2223434,java zip war-files truezip,1
+11,18982793,eclipse maven m2eclipse m2e,1
+11,3662995,distributed-computing zookeeper,1
+11,817135,unit-testing junit,1
+11,6086334,java exception constructor,1
+11,17052059,design-patterns distributed-computing,1
+11,1681449,java performance java-ee monitoring jmx,1
+11,3423193,nosql rdbms sharding scalable,1
+11,9652032,java logging log4j,1
+11,728295,java log4j,1
+11,38181,unit-testing language-agnostic mocking,1
+11,37375,wcf unit-testing,1
+11,473446,java environment,1
+11,11887799,java unit-testing junit mocking mockito,1
+11,1709816,design-patterns poeaa null-object,1
+11,17274329,svn,1
+11,1127920,java eclipse suppress-warnings generated-code,1
+11,2550763,c# .net system.reactive,1
+11,2335655,java annotations,1
+11,325443,java uuid,1
+11,947182,java profiling classloader jar,1
+11,1163173,java maven ant build-process gradle,1
+11,8270108,apache2,1
+11,155436,unit-testing naming-conventions,1
+11,292357,git git-pull git-fetch,1
+11,7244321,github,1
+11,16142,svn tags branch glossary trunk,1
+11,6286571,git github clone fork,1
+11,15756075,java optimization jit compiler-optimization,1
+11,4774255,testing selenium compare qtp test-framework,1
+11,243274,unit-testing testing abstract-class,1
+11,6197370,unit-testing,1
+11,5670862,java performance nio bytebuffer,1
+11,5210840,java byte bytearray buffer,1
+11,1237093,java classpath wildcard,1
+11,219585,java command-line classpath,1
+11,21555710,java rmi jmx,1
+11,2768087,java jmx,1
+11,4365621,jndi,1
+11,20884353,java rmi jmx,1
+11,7163173,java random port jmx firewall,1
+11,3448943,design-patterns undo,1
+11,49755,design-patterns undo,1
+11,7705895,java caching,1
+11,11404230,java api design-patterns slf4j,1
+11,98878,oop ooad crc-cards,1
+11,15690,java oop design architecture,1
+11,567579,java performance exception,1
+11,299068,java performance exception-handling,1
+11,158174,java jvm,1
+11,2828174,vim word-wrap,1
+11,4055430,java text word-wrap line-breaks linewrap,1
+11,388461,java string padding,1
+11,878573,java string multiline,1
+11,15200362,java oop design-patterns interface,1
+11,1200054,java command-line jar command-line-interface,1
+11,12153708,java oop design-patterns transactions,1
+11,12403283,c# asp.net-mvc asp.net-mvc-3 model-view-controller command,1
+11,397425,functional-programming,1
+11,14340481,java iterator guava,1
+11,602444,terminology,1
+11,4916209,android design-patterns,1
+11,2835801,functional-programming,1
+11,28559036,java generics type-erasure,1
+11,14524751,java generics casting,1
+11,11555418,java for-loop foreach,1
+11,28693659,css css3 svg css-animations css-shapes,1
+12,27700002,ruby docker fig,1
+13,931092,python string,1
+14,22173425,django django-rest-framework,1
+15,4155914,python packaging python-2.x,1
+15,11917042,javascript phantomjs,1
+16,24377090,uiscrollview uiscrollviewdelegate,1
+17,21929290,php symfony2 orm propel,1
+17,22017744,symfony2 utf-8 character-encoding phpunit,1
+17,22227225,forms symfony2 object entity,1
+17,23489149,php symfony2 phpunit twig,1
+17,23545702,php .htaccess symfony2 post production-environment,1
+17,89332,git git-stash,1
+17,26524221,symfony2 doctrine jmsserializerbundle,1
+17,26334083,table tablesorter,1
+17,26627303,git,1
+18,9047945,javascript ajax dom websocket,1
+18,19804175,python regex python-2.7 regex-lookarounds,1
+18,2286312,ios objective-c method-overloading,1
+18,101474,osx networking command-line io xpc,1
+18,16244969,git gitignore ignore,1
+18,23644193,ios cocoa nsdata nsurl,1
+18,7174347,git github git-submodules,1
+19,8173938,java performance collections guava,1
+19,3631039,javascript jquery design-patterns,1
+19,6867283,javascript javascript-events,1
+19,17499742,javascript templates meteor handlebars.js meteorite,1
+19,4599153,html ipad iframe safari scroll,1
+19,5076944,javascript null undefined,1
+19,3420071,javascript,1
+19,833661,javascript,1
+19,240592,javascript javascript-events,1
+19,12561758,ios ipad ssl https fiddler,1
+19,4798063,javascript iframe orientation,1
+19,13651274,javascript plugins,1
+19,4581000,model-view-controller design-patterns mvvm mvp presentation-model,1
+19,18212175,angularjs npm sudo yeoman,1
+19,9587665,windows node.js module require npm,1
+19,11246,javascript,1
+19,10847852,backbone.js javascript-framework,1
+19,20768922,javascript node.js generator yield,1
+19,11471722,c++ cilk cilk-plus,1
+19,15958056,ssh sublimetext2,1
+19,3937224,python cgi fastcgi wsgi mod-python,1
+19,70573,perl,1
+19,1701405,perl oop,1
+19,22873,programming-languages,1
+19,822119,javascript code-formatting minify decompression unminify,1
+19,1271516,javascript eval,1
+19,2569459,git branch stash,1
+19,500431,javascript variables scope,1
+19,1047454,javascript lexical-scope,1
+19,4599857,javascript function optimization eval,1
+19,3347847,ruby-on-rails debugging,1
+19,470542,sql oracle,1
+19,7759200,javascript json object,1
+19,1125968,git version-control git-pull git-fetch,1
+19,52704,git,1
+19,941338,linux bash shell unix,1
+19,9779624,javascript ruby metaprogramming,1
+19,5890118,ruby syntax instance-variables class-variables,1
+19,824327,windows ssh editor remote-access,1
+20,23023650,javascript node.js gulp,1
+20,16943609,html image internet-explorer cross-browser favicon,1
+21,2604727,android networking tcp debugging adb,1
+22,6528156,jquery,1
+22,25060630,android bitmap scrollview,1
+22,1385737,java swing scroll jpanel,1
+22,9047949,java eclipse maven dependency-management pom.xml,1
+22,18683847,spring spring-mvc,1
+22,16651954,eclipse hibernate servlets spring-mvc tomcat7,1
+22,3320674,java spring servlets,1
+22,16199581,osx sublimetext sublimetext3,1
+22,16098046,java double,1
+22,81346,java optimization collections,1
+22,12674064,java file-io bufferedimage,1
+22,2993601,osx intellij-idea java,1
+22,5365055,php osx eclipse-pdt,1
+22,6790568,php osx osx-lion,1
+22,21113079,android android-actionbar android-styles,1
+22,11165895,php web-scraping strip-tags,1
+22,9707693,php header,1
+22,2358178,php mod-rewrite apache server-side-includes,1
+22,12553160,php geolocation ip country-codes,1
+22,8541115,mysql osx-lion,1
+23,2628621,r scoping lexical-scope r-faq,1
+23,426230,c linux,1
+24,7616461,javascript jquery hash,1
+25,14915138,ios core-animation core-graphics animated-gif,1
+25,487258,algorithm complexity-theory computer-science big-o time-complexity,1
+26,25818845,vector xcode6,1
+26,25873498,xcode signing xcode6gm,1
+26,24438010,ios iphone xcode6,1
+26,11726672,iphone objective-c ios cocoa-touch ipad,1
+26,11793271,iphone ios ipad ios5 keychain,1
+26,24865275,ios widget ios8 ios-app-extension,1
+26,25837722,ios xcode provisioning-profile ios-app-extension,1
+26,25909870,objective-c ios8 dylib dynamic-library,1
+26,19637614,ios security keychain,1
+26,5509543,git push git-push git-non-bare-repository,1
+26,17466048,iphone ios objective-c uiviewcontroller,1
+26,25088252,ios xcode swift lldb beta,1
+26,14023618,iphone objective-c ios,1
+26,1890265,iphone uitableview,1
+26,2615378,iphone objective-c xcode git,1
+26,1549578,xcode git,1
+26,4022362,objective-c xml xcode git version-control,1
+27,448673,emulator c64,1
+28,20323569,internet-explorer windows-7 cmd,1
+28,21427577,git ssh timeout ansible ssh-agent,1
+29,25029743,android apk google-play-services publishing samsung-mobile-sdk,1
+29,25723828,android storage background-color spannable,1
+29,28645415,php facebook facebook-graph-api facebook-php-sdk,1
+30,10638087,php algorithm anagram,1
+31,17332353,hdf5 netcdf,1
+32,5431941,c feof,1
+33,20151972,scala playframework sbt,1
+33,6677875,ubuntu intellij-idea,1
+34,605845,c casting malloc,1
+34,1759300,c++ inline,1
+34,16015020,scala haskell functional-programming programming-languages category-theory,1
+35,1685228,java git jgit,1
+36,19246065,python osx shell emacs tty,1
+36,27584416,list data-structures scheme racket,1
+36,8328564,list optimization vector scheme racket,1
+36,4982831,emacs gnus,1
+37,148478,java performance graphics java-2d,1
+37,10334306,apache jboss comparison soa wso2,1
+38,27115149,jquery angularjs angularjs-directive jasmine magnific-popup,1
+38,27413213,angularjs angularjs-directive angularjs-controller,1
+38,25491212,database virtualization docker,1
+38,28201525,javascript jquery html angularjs twitter-bootstrap,1
+38,28204681,angularjs,1
+39,12964862,delphi debugging dll,1
+39,2146116,html delphi editor wysiwyg,1
+39,10137105,delphi math,1
+39,11318492,delphi layout ms-word ole,1
+39,14328411,delphi ms-word toolbar ole,1
+39,15936121,word-vba,1
+39,18974226,excel vba ms-word,1
+39,2949817,delphi automation ms-word contextmenu ole,1
+39,6802539,sql sqlite tree hierarchical-data,1
+39,3199790,sqlite profiling sqlite3,1
+39,17889502,delphi delphi-xe3,1
+39,13005646,delphi delphi-xe3,1
+39,7652171,delphi winapi ms-word ole,1
+39,4942557,oauth,1
+39,1570225,delphi oauth indy10,1
+39,18259692,database sqlite sqlite3 corruption recovery,1
+40,25596938,python image matplotlib pie-chart wedge,1
+41,23760275,ios objective-c uicollectionview uicollectionviewcell uicollectionviewlayout,1
+42,21411988,ruby-on-rails-4 carrierwave,1
+43,12532552,haskell functional-programming lambda-calculus hindley-milner denotational-semantics,1
+44,15668751,ajax adfs,1
+45,17330160,python properties decorator python-internals,1
+45,27543565,schema.org,1
+45,27209383,schema.org microdata google-rich-snippets,1
+45,936249,git,1
+45,6672454,ruby-on-rails ruby-on-rails-3,1
+45,11605704,heroku,1
+45,526469,python nlp nltk,1
+45,13440438,gem rubygems,1
+46,26255804,ios cordova uiwebview uinavigationcontroller,1
+46,11927542,sockets unix cat,1
+47,9575390,objective-c ios xcode4 ocunit sentestingkit,1
+47,25807545,ios xcode storyboard autolayout xcode6,1
+47,19943183,ios iphone in-app-purchase storekit,1
+48,562303,c,1
+49,16999343,android alarmmanager,1
+49,21844361,android android-alarms,1
+49,2491930,regex,1
+49,20130710,django google-app-engine python-2.7,1
+49,7447472,php git,1
+49,20441705,android image instagram effects,1
+49,5205305,git bash shell backup,1
+49,10736107,3d webgl dicom,1
+49,18658612,node.js hash stream,1
+49,11702374,download google-drive-sdk,1
+49,22736141,google-apps-script google-drive-sdk,1
+49,7860751,git,1
+50,3329420,web-applications hotkeys,1
+50,24702432,javascript angularjs cookies,1
+50,16286605,javascript angularjs asynchronous service angular-promise,1
+51,3497123,git bash,1
+51,23137544,docker,1
+51,24252598,deployment docker,1
+51,26093498,docker,1
+51,25281992,user-interface docker,1
+52,24045307,xcode ios7 xcode6,1
+52,25766747,ios objective-c xcode autolayout,1
+52,20637745,ios cocoa-touch testing kif-framework kif,1
+52,15161434,objective-c cocoa-touch cocoa grand-central-dispatch,1
+52,1028649,git tags rename git-tag,1
+52,24485681,ios xcode push-notification parse.com,1
+52,4649231,c++ bitmask,1
+53,799981,javascript jquery,1
+54,25554062,haskell zipper deriving comonad,1
+54,27282120,haskell monads zipper deriving,1
+55,2751870,c++ objective-c c preprocessor stringize,1
+55,21469459,ios objective-c ios7 uicollectionview,1
+56,14413095,playframework,1
+56,11535617,amazon-web-services amazon-ec2 amazon-ebs,1
+56,1722726,scala scala-2.8 scala-collections,1
+56,11227809,java c++ performance optimization,1
+57,13349573,python django,1
+57,15359218,email mailchimp transactional-email mandrill,1
+57,24273932,d3.js processing visualization vector-graphics,1
+57,261599,javascript function,1
+57,14302267,angularjs,1
+57,960866,javascript arrays sorting arguments varargs,1
+57,7082373,javascript coffeescript,1
+57,4542942,javascript coffeescript,1
+57,8035822,javascript,1
+57,336859,javascript function syntax idioms,1
+57,1986896,javascript performance function dynamic,1
+57,23731517,html5 node-webkit brackets-shell atom-shell,1
+57,21358027,javascript jquery d3.js,1
+57,28063407,node.js ejs,1
+57,27158361,javascript design-patterns javascript-module,1
+57,14552112,node.js express pdf-generation,1
+57,275569,javascript recursion callback,1
+57,19236783,javascript lua closures variable-scope,1
+57,1022560,javascript lua,1
+57,17201450,node.js,1
+57,23917939,neo4j cypher acl,1
+57,22704987,javascript iife,1
+57,8504446,javascript mongodb node.js mongoose,1
+57,7056925,javascript prototype-programming,1
+57,21485326,node.js mongodb angularjs sails.js mean-stack,1
+57,21628478,javascript node.js angularjs sails.js mean-stack,1
+57,21598339,node.js mongodb sails.js,1
+58,10905905,ruby-on-rails sass asset-pipeline font-face,1
+59,2770321,java generics raw-types,1
+59,3745515,javascript substring,1
+59,6320744,javascript browser webkit llvm gecko,1
+59,23304388,intern browserstack,1
+59,15636367,node.js package npm,1
+60,7244321,github,1
+60,25211840,docker coreos kubernetes,1
+60,19694392,ruby-on-rails themes,1
+60,27255309,linux containers docker lxc rocket,1
+60,711863,ruby hashmap,1
+60,23643827,ruby-on-rails sidekiq sidetiq,1
+60,24668524,ruby-on-rails activerecord nosql,1
+60,13518213,ruby-on-rails forms,1
+60,15385087,ruby-on-rails migration associations,1
+60,15122202,google-bigquery quota,1
+60,19075065,ruby-on-rails migration ruby-on-rails-4 rollback,1
+60,23411337,ruby-on-rails ruby paypal,1
+60,19071137,ruby-on-rails ruby routes ruby-on-rails-4,1
+60,17157721,docker,1
+60,23422540,ruby-on-rails docker boot2docker,1
+60,27191815,docker boot2docker,1
+60,22111060,docker,1
+60,26543787,mule docker,1
+60,27806631,ruby-on-rails curl deployment docker containers,1
+60,10485762,ruby-on-rails ruby,1
+60,1478747,ruby-on-rails ruby localhost webrick,1
+60,27881263,ruby ubuntu,1
+60,27616283,ruby-on-rails chartkick,1
+60,6540500,ruby-on-rails ruby-on-rails-3 activerecord mongodb mongoid,1
+60,22958188,ruby-on-rails sidekiq,1
+60,4599971,algorithm ranking,1
+60,3937218,algorithm sorting comparison ranking,1
+60,16084741,docker,1
+60,6359935,javascript google-visualization,1
+60,26274954,ruby-on-rails ruby rspec rails-activejob,1
+60,6221568,ruby-on-rails unit-testing,1
+60,14567290,api twitter data filter,1
+61,27400059,centos tmux,1
+62,16573089,python pandas,1
+62,23750399,python anaconda conda,1
+62,16993927,python c linker cython distutils,1
+62,28350552,python matplotlib plot bokeh,1
+63,8411371,llvm,1
+63,14057830,sshfs umount,1
+64,6416117,c++ c opencv image-processing object-detection,1
+64,22789515,ios opencv detection,1
+64,4785419,image image-processing opencv image-recognition,1
+64,20698613,opencv circle hough-transform,1
+64,11276390,opencv hough-transform,1
+64,12045027,ios xcode opencv avfoundation core-video,1
+64,12445190,ios ios6,1
+64,15874094,iphone objective-c uiimage uiimagepickercontroller,1
+64,4439707,iphone video,1
+64,5687341,iphone,1
+64,17102078,iphone objective-c camera video-recording,1
+64,16509142,ios video ios6 avplayer,1
+64,15179095,ios objective-c mpmovieplayercontroller uitapgesturerecognizer,1
+64,3741323,ios iphone uiimage export avfoundation,1
+64,1010343,iphone audio recording,1
+64,4199879,ios4 avfoundation,1
+64,6061092,iphone ios video audio avassetwriter,1
+64,16328875,ios objective-c touch uitouch,1
+64,19213782,ios xcode xcode5 cocoapods,1
+64,15322620,ios uiview uiimageview cgcontext cashapelayer,1
+64,20165906,ios uiimageview,1
+64,26708998,ios objective-c iphone ios8 uiimagepickercontroller,1
+64,12991935,ios uikit retina-display,1
+64,599405,ios iphone uinavigationbar,1
+64,2630004,text formatting uibutton,1
+64,14742262,ios ios6,1
+64,238980,iphone ios xcode,1
+64,2440620,iphone,1
+64,7501413,ios video thumbnails,1
+64,12126496,ios,1
+64,17871614,iphone ios xcode storyboard,1
+64,7639188,ios xcode camera,1
+64,4754392,iphone ios cocoa-touch uiview rounded-corners,1
+64,8710815,ios xcode ipa,1
+65,21033096,c# visual-studio msbuild windows-store-apps,1
+65,6508529,c# generics covariant,1
+65,3142495,c# .net json serialization dynamic,1
+65,3611256,git branch github,1
+65,27788320,c# binary-tree,1
+65,28005594,.net performance generics,1
+65,14455293,c# .net async-await,1
+65,12494248,configuration msbuild cruisecontrol.net,1
+65,2196993,git github merge branch commit,1
+65,826164,ruby-on-rails ide,1
+65,11420921,web-services windows-8 microsoft-metro windows-runtime,1
+65,19341591,c# multithreading xaml windows-store-apps,1
+65,16477190,c# windows-runtime windows-store-apps async-await dispatcher,1
+65,24429522,xaml windows-runtime windows-store-apps windows-8.1,1
+66,5631716,javascript,1
+66,18823530,javascript debugging google-chrome-devtools,1
+66,17711635,javascript datetime culture javascript-globalize,1
+66,24967450,firefox polymer web-component shim,1
+66,13454287,javascript twitter,1
+67,6750695,jquery text colors element,1
+67,198968,mysql windows backup,1
+67,11471008,javascript browser-cache hashcode,1
+67,22099957,javascript jquery scroll,1
+67,11381673,javascript platform-detection,1
+67,3464268,javascript jquery-ui,1
+67,123999,html firefox dom,1
+68,1957989,php database similarity street-address levenshtein-distance,1
+68,15666048,angularjs dependency-injection angularjs-service angularjs-factory,1
+68,11605917,angularjs,1
+68,19957280,angularjs,1
+68,16521471,node.js module requirejs amd commonjs,1
+68,17128602,php debian apt,1
+69,23264044,json rest spring-data spring-data-jpa spring-data-rest,1
+69,25317405,rest spring-security spring-boot restful-authentication stateless,1
+69,22385205,java spring spring-security spring-java-config,1
+69,24371111,spring spring-boot spring-loaded,1
+69,20775819,osx controller directinput ps3 xinput,1
+69,2031163,logging coding-style,1
+69,19104847,image repository docker,1
+69,28581029,java selenium-webdriver jmeter rhino jmeter-plugins,1
+70,10544233,ruby-on-rails ubuntu nginx passenger,1
+70,5785104,ruby-on-rails deployment capistrano,1
+70,18880024,git ssh bitbucket redhat ssh-agent,1
+70,21912457,ruby-on-rails facebook twitter omniauth,1
+70,13524919,ruby-on-rails omniauth,1
+70,7947030,redirect ubuntu nginx rackspace no-www,1
+70,825748,ruby command-line rake command-line-arguments,1
+70,180349,ruby-on-rails database activerecord,1
+70,2445100,ruby-on-rails actionmailer,1
+70,957422,ruby-on-rails actionmailer,1
+70,20664277,ruby-on-rails configuration actionmailer,1
+70,1452681,jquery-ui localization internationalization jquery-ui-datepicker,1
+70,809528,ruby-on-rails rest,1
+70,13264650,google-plus hangout,1
+70,18987973,javascript node.js express webrtc video-recording,1
+71,27387930,haskell recursion,1
+72,2068344,php curl youtube youtube-api,1
+73,27402081,c++ linux qt,1
+73,19875104,git git-commit git-diff,1
+74,23342330,python mysql sql django,1
+74,26596689,python python-3.x bioinformatics,1
+74,8746014,django django-aggregation,1
+74,10213009,search solr lucene elasticsearch,1
+74,21947452,java performance,1
+74,28169164,python django python-2.7,1
+74,28292996,python,1
+74,24835946,python-2.7 argparse,1
+74,21655862,python google-app-engine app-engine-ndb,1
+74,28492897,python-2.7 google-api-python-client,1
+75,9286176,ruby-on-rails database migration constraints notnull,1
+75,16409895,devise ruby-on-rails-4 rails-postgresql,1
+75,28280635,git bash vim awk,1
+75,7198062,ruby-on-rails ruby-on-rails-3 belongs-to activeadmin,1
+75,28433071,ios css safari,1
+76,5958417,javascript function object,1
+76,436411,javascript jquery html,1
+76,164979,asp.net regex validation postal-code,1
+76,17664573,javascript jasmine gruntjs,1
+76,1437412,google-chrome keyboard-shortcuts,1
+76,12847965,python scrapy,1
+76,125177,javascript screen-scraping,1
+77,9876327,swig,1
+77,12304806,java c++ swig,1
+77,817801,java time jvm,1
+77,12393116,java sorting data-structures tree,1
+77,3042437,git,1
+77,1403772,java console terminal,1
+77,586224,binding xsd jaxb,1
+77,18698856,c# .net wcf amazon amazon-product-api,1
+77,10558791,java httpclient,1
+77,20340470,java spring apache-httpclient-4.x,1
+77,1247772,java glob,1
+77,4933677,java proxy,1
+77,24572771,jersey jax-rs jersey-2.0,1
+77,1074580,version-control clearcase,1
+77,12002632,java out-of-memory mtom soaphandler,1
+77,5127954,bash delimiter,1
+78,10880472,api rest inheritance polymorphism,1
+78,19898967,python flask wtforms flask-wtforms,1
+78,9777215,node.js child-process,1
+79,1732348,html regex xhtml,1
+79,28701318,javascript performance google-chrome-devtools frontend,1
+80,2067472,javascript json jsonp,1
+81,12371159,javascript binding angularjs directive,1
+81,14324451,angularjs angular-services,1
+81,213266,java swing,1
+82,8486099,javascript,1
+82,25416813,bower package-managers,1
+82,14468704,jquery-1.9,1
+82,3508605,css css3 css-transitions,1
+82,9687593,javascript html firebug,1
+82,3554787,video join ffmpeg video-processing mts,1
+82,9711118,javascript javascript-events,1
+82,4540422,javascript xor logical-operators,1
+83,7975014,iis iis-7 url-rewriting,1
+83,2124753,visual-studio-2010 visual-studio powershell,1
+83,448919,git github,1
+84,13368100,python exception,1
+84,20939299,python multithreading,1
+85,21502324,coffeescript gruntjs grunt-contrib-watch grunt-contrib-coffee,1
+85,336859,javascript function syntax idioms,1
+85,79923,memory-management stack heap,1
+85,28289554,css,1
+85,5015471,ruby sinatra,1
+85,1218390,vim productivity vi,1
+86,28495280,java garbage-collection,1
+87,11038313,logging soap cxf interceptor,1
+87,11558533,android nfc nfc-p2p,1
+87,28085209,android nfc,1
+87,7034,javascript jquery data-structures graph-layout,1
+87,3366052,java apache-camel,1
+87,4783063,java authentication forms-authentication spring-security,1
+88,20955918,android android-testing android-espresso spoon,1
+88,12991535,android user-interface tablet statusbar,1
+88,13677199,android jmdns,1
+89,1459150,git commit undo amend,1
+89,24937133,django translation,1
+89,19331497,bash variables environment-variables,1
+89,5327465,python fabric,1
+90,20110013,java multithreading synchronization java.util.concurrent blockingqueue,1
+91,16828287,angularjs dependency-injection,1
+91,14859281,jquery jquery-ui,1
+92,22358071,java openjdk,1
+92,26646944,java string localization string-comparison,1
+92,499437,java exception,1
+92,26699985,c++ c struct,1
+92,18001550,java generics language-design generic-method raw-types,1
+92,442026,programming-languages language-design overloading method-overloading function-calls,1
+92,3847162,java generics,1
+92,4343202,java generics collections,1
+92,26827244,java exception inheritance abstract,1
+92,26754805,c++ lambda function-pointers,1
+92,19460046,debugging angularjs jsfiddle,1
+92,27120992,javascript regex,1
+92,6948166,java haskell interface typeclass,1
+92,9244538,haskell monads,1
+92,17719620,loops haskell while-loop,1
+92,1445233,java generics,1
+92,1817524,java arrays generics,1
+92,22394089,scope output pseudocode,1
+92,13489388,java junit junit4 junit-rule,1
+92,1280667,python for-loop nested-loops,1
+92,8029279,java annotations,1
+92,1028858,java eclipse templates ide code-generation,1
+92,5889696,haskell types type-systems newtype,1
+92,19321868,c# linq,1
+92,15347136,java python,1
+92,24481113,scala haskell functional-programming type-level-computation,1
+92,1152732,algorithm sorting parallel-processing hadoop mapreduce,1
+92,7340925,c++,1
+92,6296299,java generics type-erasure,1
+92,11234632,haskell monads,1
+92,6134278,java functional-programming currying partial-application,1
+92,75175,java generics,1
+92,19834611,java java-8,1
+93,2077475,mysql sql database,1
+93,28628553,css css3 google-chrome css-transitions css-transforms,1
+94,28585818,android cordova meteor,1
+95,10189356,git github markdown,1
+96,5616237,c operating-system microcontroller embedded assembly,1
+96,15929872,emacs delete character line,1
+97,10574381,osx applescript keychain apple-mail,1
+98,2797974,c shellcode,1
+99,17556955,ember.js,1
+99,22779934,ember.js handlebars.js view-helpers,1
+0,3413137,java caching oracle10g,0 
+0,14876112,javascript jquery angularjs,0 
+0,20553345,algorithm data-structures,0 
+0,19105976,python date pandas,0 
+0,4545661,python unicode,0 
+0,18390627,django django-admin,0 
+0,11933173,javascript twitter-bootstrap datepicker bootstrap-datepicker,0 
+0,7672511,unit-testing testing tdd integration-testing regression-testing,0 
+0,7129232,github,0 
+0,20921862,android opencv android-ndk gradle android-studio,0 
+0,22739790,node.js,0 
+0,27543565,schema.org,0 
+0,10638087,php algorithm anagram,0 
+0,22575261,ssh virtualbox vagrant,0 
+0,19033943,oracle oracle-sqldeveloper,0 
+0,53664,vim vi,0 
+0,4667633,hudson continuous-integration hosted bamboo,0 
+0,6040962,java multithreading concurrency threadpool futuretask,0 
+0,21928691,docker,0 
+0,15134090,facebook image debugging image-size,0 
+1,15775832,android nfc google-play mifare,0 
+1,10368620,php constants,0 
+1,5210840,java byte bytearray buffer,0 
+1,5551056,c# entity-framework ef-code-first entity-framework-4.1,0 
+1,22099957,javascript jquery scroll,0 
+2,402217,python django orm persistence,0 
+2,1492852,iphone cocoa-touch uiviewcontroller uinavigationcontroller uitableview,0 
+2,24461460,forms polymer material-design,0 
+2,5226043,java map tile coordinate,0 
+2,3271249,java jdbc,0 
+3,213266,java swing,0 
+3,18259692,database sqlite sqlite3 corruption recovery,0 
+3,20280191,ubuntu phpstorm,0 
+3,4166966,java generics java-7 diamond-operator,0 
+3,1930454,java algorithm statistics,0 
+4,14237674,github,0 
+4,15554900,gradle,0 
+4,6806584,javascript internet-explorer javascript-events,0 
+4,18092245,ruby-on-rails capistrano docker,0 
+4,22890826,python dictionary nested,0 
+4,28031603,go,0 
+4,19455019,yeoman bower,0 
+4,4258204,java ant hudson release-management,0 
+4,2491930,regex,0 
+4,1092219,java string junit assert,0 
+5,3953096,eclipse plugins breadcrumbs,0 
+5,2507898,android android-image android-gallery,0 
+5,7423564,c# visual-studio powershell embedded-resource nuget,0 
+5,21999433,python matplotlib nose nosetests,0 
+5,11867215,delphi transparency,0 
+6,7840685,antlr xtext,0 
+6,5574842,javascript internet-explorer browser browser-detection,0 
+6,21405778,javascript php symfony2 twig,0 
+6,7169802,jvm code-generation antlr dsl bytecode,0 
+6,20127349,java,0 
+6,498217,java exception throwable,0 
+6,6344318,javascript graphviz,0 
+6,19372260,r knitr rstudio rmarkdown,0 
+6,16303821,c++ sublimetext2 code-snippets,0 
+6,19483397,flash video-streaming video-processing webrtc mashup,0 
+6,21570986,ruby-on-rails ruby rspec cucumber factory-girl,0 
+6,14526308,entity-framework entity-framework-4 entity-framework-4.1 entity-framework-5,0 
+6,2213340,java multithreading,0 
+6,1445452,unix syntax shell,0 
+6,3879717,android,0 
+7,19397643,java exception,0 
+7,10297054,java web-services jaxb jax-ws,0 
+7,117690,java multithreading concurrency,0 
+7,3937224,python cgi fastcgi wsgi mod-python,0 
+7,21746525,python xml python-2.7 xml-parsing xml.etree,0 
+8,5958417,javascript function object,0 
+8,9267899,javascript encoding base64 arraybuffer,0 
+8,275569,javascript recursion callback,0 
+8,11145696,java lambda java-8,0 
+8,22512446,angularjs azure signalr signalr-hub,0 
+9,148478,java performance graphics java-2d,0 
+9,2449461,java eclipse maven-2,0 
+9,24865275,ios widget ios8 ios-app-extension,0 
+9,24438010,ios iphone xcode6,0 
+9,2338035,iphone cocoa-touch ios-simulator configuration-files,0 
+10,19486741,java multithreading concurrency,0 
+10,20299914,java dead-code unreachable-code,0 
+10,21261077,java oop design-patterns,0 
+10,6030071,mysql insert,0 
+10,18871277,angularjs ng-class,0 
+11,449763,android android-source,0 
+11,12560590,android crash stack forceclose,0 
+11,599405,ios iphone uinavigationbar,0 
+11,26093498,docker,0 
+11,18039003,python django rest django-rest-framework,0 
+11,8237471,iphone objective-c avcapturesession avcapture,0 
+11,5985376,magento,0 
+11,19205001,ruby-on-rails regex,0 
+11,17794037,ios layout uiview xcode5,0 
+11,3136420,ruby-on-rails ruby,0 
+11,3769762,android xml,0 
+11,5597935,jax-ws playframework,0 
+11,19977002,java jaxb2 jersey-2.0,0 
+11,5503925,python database django,0 
+11,231767,python iterator generator yield,0 
+11,127040,firefox dom safari google-chrome clipboard,0 
+11,448919,git github,0 
+11,28350552,python matplotlib plot bokeh,0 
+11,23450494,cross-domain jax-rs java-ee-7 wildfly-8,0 
+11,13652188,objective-c ios core-animation,0 
+11,18496940,docker,0 
+11,14452674,java jms publish-subscribe,0 
+11,5205305,git bash shell backup,0 
+11,18345179,angularjs gruntjs yeoman,0 
+11,195008,testing computer-science code-coverage,0 
+11,9047945,javascript ajax dom websocket,0 
+11,9474090,editor sublimetext indentation,0 
+11,817801,java time jvm,0 
+11,7591854,node.js selenium automated-tests capybara,0 
+11,9138294,events design design-patterns twisted eventmachine,0 
+11,2408981,shell unix time io-redirection,0 
+11,17118551,jekyll,0 
+11,101474,osx networking command-line io xpc,0 
+11,12553160,php geolocation ip country-codes,0 
+11,9253323,java oracle hibernate spring blob,0 
+11,1136106,python sql django sqlite insert,0 
+11,24472020,java android osx android-studio,0 
+11,18753969,ruby-on-rails angularjs coffeescript put angularjs-resource,0 
+11,4114095,git git-reset git-revert,0 
+11,12393671,javascript,0 
+11,20693215,node.js express beanstalkd ulimit,0 
+11,14478142,java xml xpath,0 
+11,5440128,multithreading process context-switch,0 
+11,14468704,jquery-1.9,0 
+11,1732348,html regex xhtml,0 
+11,17640987,windows node.js,0 
+11,2573135,python,0 
+11,218025,language-agnostic terminology definition currying partial-application,0 
+11,21547241,iphone xcode5 animatewithduration,0 
+11,22310925,linux virtualization docker lxc,0 
+11,1484264,language-agnostic,0 
+11,13694186,android collections android-appwidget,0 
+11,238980,iphone ios xcode,0 
+11,236047,delphi javadoc sandcastle,0 
+11,14129662,google-apps-script google-docs-api,0 
+11,4090518,javascript,0 
+11,18041267,xcode provisioning-profile xcode5,0 
+11,10551449,iphone ios core-data nsmanagedobject,0 
+11,14133077,android bootcompleted powermanager,0 
+11,20952591,forms symfony2 twig,0 
+11,17403464,ruby-on-rails ruby testing rspec,0 
+11,23549334,angularjs polymer shadow-dom transclusion,0 
+11,18623351,javascript android cordova,0 
+11,17633422,postgresql psql,0 
+11,27400059,centos tmux,0 
+11,391979,javascript ip-address clientip,0 
+11,987142,git,0 
+11,4783063,java authentication forms-authentication spring-security,0 
+11,27387930,haskell recursion,0 
+11,176409,c http-server,0 
+11,972370,bash cygwin grep pipe cut,0 
+11,19876940,scheme racket,0 
+11,4292161,c windows compiler-construction make,0 
+11,18225126,git unity3d,0 
+11,4662744,delphi inheritance,0 
+11,210835,functional-programming computer-science theory referential-transparency,0 
+11,17743879,linux shell process child-process,0 
+11,6565357,authentication github git-push git-pull git-clone,0 
+11,6813322,android android-intent install uninstall apk,0 
+11,10544233,ruby-on-rails ubuntu nginx passenger,0 
+11,11039544,vim,0 
+11,13393153,php symfony2 composer-php,0 
+11,3964211,java,0 
+11,19302913,bash zsh,0 
+11,4247932,linux parsing bash,0 
+11,16252791,android zxing landscape-portrait,0 
+11,23309015,ruby google-api google-bigquery,0 
+11,4529586,javascript html node.js view express,0 
+11,2307283,big-o logarithm growth-rate,0 
+11,27282120,haskell monads zipper deriving,0 
+11,22512446,angularjs azure signalr signalr-hub,0 
+11,432954,c# linq-to-entities,0 
+11,7975014,iis iis-7 url-rewriting,0 
+11,9785777,jmeter assertion,0 
+11,7129232,github,0 
+11,16987512,android gradle android-studio android-holo-everywhere,0 
+11,7860751,git,0 
+11,15161434,objective-c cocoa-touch cocoa grand-central-dispatch,0 
+11,504103,java jvm benchmarking jvm-hotspot microbenchmark,0 
+11,11541695,angularjs ngroute,0 
+11,18153410,node.js q,0 
+11,2428186,java class behavior,0 
+11,2488280,iphone ipad sdk xib,0 
+11,15210548,android font-awesome,0 
+11,24461460,forms polymer material-design,0 
+11,4955752,git diff,0 
+11,13518213,ruby-on-rails forms,0 
+11,1140089,javascript anonymous-function iife,0 
+11,7344203,ios,0 
+11,202605,javascript string,0 
+11,17650703,linux random,0 
+11,24180622,polymer web-component,0 
+11,1727881,c++ trigonometry,0 
+11,2687015,android,0 
+11,7545254,android facebook android-intent,0 
+11,8476975,c++ parsing function reflection binding,0 
+11,4808351,ruby-on-rails redis resque beanstalkd,0 
+11,22789515,ios opencv detection,0 
+11,17128602,php debian apt,0 
+11,1269603,vim split,0 
+11,3424904,android android-linearlayout,0 
+11,880227,rpm rpmbuild,0 
+11,25735824,linq entity-framework asp.net-mvc-4 entity-framework-5,0 
+11,18561462,angularjs node.js rest restify passport.js,0 
+11,5725430,http post,0 
+11,1570225,delphi oauth indy10,0 
+11,5467174,algorithm random shuffle,0 
+11,4625567,firebug,0 
+11,17109850,jquery angularjs bind directive,0 
+11,28289554,css,0 
+11,19339215,mysql date,0 
+11,20105103,.net security clr .net-assembly code-signing,0 
+11,2764129,javascript facebook xfbml,0 
+11,6508529,c# generics covariant,0 
+11,17900201,angularjs angularjs-directive,0 
+11,19542525,javascript angularjs twitter-bootstrap,0 
+11,10521315,jquery jquery-chosen,0 
+11,6003881,ruby-on-rails ruby-on-rails-3,0 
+11,8439127,ios enterprise ota,0 
+11,10486375,java optimization printing jvm flags,0 
+11,5709127,delphi tcp wiki delphi-2007 delphi-xe,0 
+11,20466132,java clojure leiningen,0 
+11,3075009,android methods parameters android-asynctask,0 
+11,14430655,javascript recursion angularjs,0 
+11,5418951,signal-processing window-functions,0 
+11,3724112,php oop method-chaining,0 
+11,3015796,iphone xcode ipad ios-simulator,0 
+11,21830810,git,0 
+11,11393248,python python-2.7 celery django-celery,0 
+11,15699995,refactoring,0 
+11,11436013,c linux sockets glibc,0 
+11,1191464,html css background,0 
+11,17440415,web go production,0 
+11,1445452,unix syntax shell,0 
+11,6191710,java generics factory-pattern,0 
+11,4969593,oop language-agnostic prototype functional-programming polymorphism,0 
+11,16015020,scala haskell functional-programming programming-languages category-theory,0 
+11,3855127,ruby-on-rails osx process,0 
+11,8173938,java performance collections guava,0 
+11,6430448,c optimization gcc assembly floating-point,0 
+11,8343971,android android-layout,0 
+11,18954894,angularjs jquery-deferred q,0 
+11,13797670,forms api node.js http post,0 
+11,5411434,java reflection override superclass,0 
+11,2077475,mysql sql database,0 
+11,2067472,javascript json jsonp,0 
+11,3737740,bash,0 
+11,5631716,javascript,0 
+11,18288329,session authentication angularjs cookies,0 
+11,25637440,go,0 
+11,21856173,symfony2 doctrine2 many-to-many entities,0 
+11,20921862,android opencv android-ndk gradle android-studio,0 
+11,2615968,python windows virtualenv virtualenvwrapper,0 
+11,4915584,iphone itunesconnect,0 
+11,19879844,android google-maps-android-api-2 google-play-services,0 
+11,2196993,git github merge branch commit,0 
+11,1187352,java,0 
+11,1387459,c# sockets tcpclient networkstream,0 
+11,5207301,jquery easing-functions jquery-easing,0 
+11,23411337,ruby-on-rails ruby paypal,0 
+11,8810125,google-app-engine gwt gae-datastore,0 
+11,24718393,yaml pandoc,0 
+11,6030071,mysql insert,0 
+11,25994909,javascript loops foreach,0 
+11,25898733,python python-2.7 python-3.x floating-point-conversion,0 
+11,2734270,android hyperlink android-textview clickable,0 
+11,23809636,python django django-queryset,0 
+11,715643,search count vi,0 
+11,10586752,jquery mvvm knockout.js,0 
+11,16521471,node.js module requirejs amd commonjs,0 
+11,10428629,iphone xcode ios5 storyboard,0 
+11,5963669,javascript events preventdefault stoppropagation,0 
+11,1272357,linux gcc 64bit cmake 32-bit,0 
+11,8376511,iphone objective-c ios xcode afnetworking,0 
+11,3296260,git branch,0 
+11,1279787,deployment heroku staging,0 
+11,21236605,php forms symfony2 translation formbuilder,0 
+11,2688853,ruby-on-rails rubygems methods override,0 
+11,22824546,javascript node.js coffeescript gulp,0 
+11,26720668,jquery css angularjs,0 
+11,4522967,javascript css raphael,0 
+11,8626928,iphone ios objective-c jailbreak cydia,0 
+11,20969593,php symfony2 request,0 
+11,21763527,ruby-on-rails asynchronous ruby-on-rails-4 live-streaming server-sent-events,0 
+11,2526522,php csrf owasp,0 
+11,19118842,php mysql symfony2 join doctrine2,0 
+11,28169164,python django python-2.7,0 
+11,20110710,google-bigquery github-archive,0 
+11,2846653,python multithreading sample,0 
+11,17742782,ruby-on-rails paypal payment-gateway activemerchant recurring-billing,0 
+11,6567831,sql django django-queryset django-orm,0 
+11,711863,ruby hashmap,0 
+11,5943611,machine-learning linear-algebra,0 
+11,27191815,docker boot2docker,0 
+11,17966140,html css twitter-bootstrap twitter-bootstrap-3,0 
+11,1991042,scala traits,0 
+11,97197,orm select-n-plus-1,0 
+11,11172207,iphone ios core-graphics uifont cgpath,0 
+11,22704987,javascript iife,0 
+11,4370960,ruby,0 
+11,23381423,javascript node.js,0 
+11,1606797,javascript oop class inheritance constructor,0 
+11,16162108,django django-forms django-views django-authentication django-allauth,0 
+11,21110392,android nfc android-4.4-kitkat apdu hce,0 
+11,20498317,python django angularjs authentication django-rest-framework,0 
+11,20533828,python string utf-8,0 
+11,16541233,copy gruntjs,0 
+11,941338,linux bash shell unix,0 
+11,17674634,android,0 
+11,2993601,osx intellij-idea java,0 
+11,9983868,javascript html5 internet-explorer-8 contenteditable rangy,0 
+11,6210105,compiler-construction coffeescript interpreter bootstrapping,0 
+11,14262433,python mongodb pandas large-data hdf5,0 
+11,2338267,iphone apple-push-notifications devicetoken,0 
+11,14644606,ruby api authentication sinatra,0 
+11,17719620,loops haskell while-loop,0 
+11,23599945,delphi canvas firemonkey,0 
+11,4604005,css html overflow css-float,0 
+11,5697171,java regex unicode,0 
+11,19032940,ios colors ios7 uicolor,0 
+11,24485681,ios xcode push-notification parse.com,0 
+11,1280667,python for-loop nested-loops,0 
+11,14072380,java spring ehcache,0 
+11,15604196,angularjs deferred promise,0 
+11,7817637,linux bash subprocess termination,0 
+11,16681952,ios avfoundation barcode zxing barcode-scanner,0 
+11,9273204,ios,0 
+11,2751870,c++ objective-c c preprocessor stringize,0 
+11,3461441,css css-transitions css-transforms,0 
+11,7999680,jquery requestanimationframe,0 
+11,14934452,node.js express,0 
+11,12317391,c# asp.net asp.net-mvc-4 asp.net-optimization bundling-and-minification,0 
+11,918449,ruby operators splat,0 
+11,16647069,vagrant docker,0 
+11,2366190,objective-c cocoa unix,0 
+11,23294658,python validation loops python-3.x user-input,0 
+11,3886302,api listings tv,0 
+11,18823530,javascript debugging google-chrome-devtools,0 
+11,9999433,symfony2 architecture bundle,0 
+11,26627402,javascript promise,0 
+11,1626423,php xml soap soap-client,0 
+11,28031603,go,0 
+11,24534631,regex bash grep,0 
+11,3908856,java android eclipse google-maps,0 
+11,3170634,ruby-on-rails database sqlite3 sqlite3-ruby,0 
+11,12916880,python mysql django,0 
+11,22491700,haskell lazy-evaluation ghci,0 
+11,24114223,python django angularjs,0 
+11,1349637,php oop polymorphism virtual-functions,0 
+11,28085209,android nfc,0 
+11,6468397,python django,0 
+11,22039319,linux,0 
+11,13294919,python image stream ffmpeg python-imaging-library,0 
+11,11934088,scala reflection runtime introspection,0 
+11,11034941,debugging meteor server-side,0 
+11,18285212,scale production docker,0 
+11,11757487,java jackson,0 
+11,3541762,django,0 
+11,25503703,python html string performance python-internals,0 
+11,3139344,delphi debugging interface access-violation,0 
+11,22962863,python pyparsing,0 
+11,18798792,ios objective-c xcode uiviewcontroller ios7,0 
+11,5127954,bash delimiter,0 
+11,14413095,playframework,0 
+11,14200678,c++ c++11 stdasync,0 
+11,9403675,javascript backbone.js backbone-events,0 
+11,1675688,vim vi,0 
+11,11372076,haskell lazy-evaluation strictness tying-the-knot,0 
+11,11063749,oauth-2.0 google-apps-script google-sites,0 
+11,5353278,ajax xcode uiwebview xmlhttprequest,0 
+11,23137544,docker,0 
+11,11182339,sql sql-server tsql,0 
+11,21329224,git push commit squash,0 
+11,19705598,ruby gem naming-conventions,0 
+11,14023618,iphone objective-c ios,0 
+11,21713974,ruby history naming,0 
+11,10236000,mysql,0 
+11,2257441,python string random,0 
+11,11533214,php api twitter,0 
+11,13292237,c++ macros c++11 string-literals constexpr,0 
+11,19754085,web akka distributed high-availability failover,0 
+11,28280635,git bash vim awk,0 
+11,4101641,ruby-on-rails devise,0 
+11,6677875,ubuntu intellij-idea,0 
+11,2846283,javascript semicolon,0 
+11,9413123,javascript security node.js deployment obfuscation,0 
+11,11276520,javascript model-view-controller comet angularjs,0 
+11,6536244,objective-c c type-conversion,0 
+11,24340258,javascript html angularjs polymer web-component,0 
+11,18575582,javascript javascript-events twitter-bootstrap-3,0 
+11,1227121,python object,0 
+11,22459529,asp.net-mvc entity-framework asp.net-mvc-5 asp.net-identity entity-framework-6.1,0 
+11,3919977,javascript ide debugging node.js v8,0 
+11,12054449,ajax symfony2 csrf,0 
+11,107390,http,0 
+11,1079713,java javadoc,0 
+11,20775819,osx controller directinput ps3 xinput,0 
+11,149274,performance http https,0 
+11,20583517,php networking pecl centos6,0 
+11,19543463,ios database string security,0 
+11,18056583,iphone ios directory nsdocumentdirectory,0 
+11,18092245,ruby-on-rails capistrano docker,0 
+11,7849117,python linux filesystemwatcher,0 
+11,13415830,android,0 
+11,13209802,javascript regex character match,0 
+11,18524652,javascript object defineproperty,0 
+11,5028598,c# wpf winapi hwndhost,0 
+11,2171177,api compiler-construction binary operating-system abi,0 
+11,4188620,ruby-on-rails memcached heroku redis,0 
+11,16943609,html image internet-explorer cross-browser favicon,0 
+11,809528,ruby-on-rails rest,0 
+11,10580159,java sieve-of-atkin,0 
+11,8978080,apache .htaccess authorization,0 
+11,5181845,git github,0 
+11,20520535,ios objective-c https ssl-certificate afnetworking,0 
+11,2604727,android networking tcp debugging adb,0 
+11,14389049,angularjs socket.io,0 
+11,23659300,templates filter polymer web-component,0 
+11,1531501,python json google-app-engine,0 
+11,3948861,google-app-engine,0 
+11,79923,memory-management stack heap,0 
+11,21597910,backbone.js javascript-framework,0 
+11,4312613,iphone ios4,0 
+11,15636367,node.js package npm,0 
+11,16999343,android alarmmanager,0 
+11,1225909,java io stream inputstream bytearrayoutputstream,0 
+11,16483560,javascript html dom data-binding,0 
+11,13651274,javascript plugins,0 
+11,24702432,javascript angularjs cookies,0 
+11,17308690,apache ssl cryptography,0 
+11,6431607,java jvm,0 
+11,23795779,polymer,0 
+11,16361813,ajax popup twitter-oauth facebook-oauth window.open,0 
+11,25596938,python image matplotlib pie-chart wedge,0 
+11,16784996,php symfony2 fosrestbundle jmsserializerbundle,0 
+11,21001387,go,0 
+11,3013669,java regex,0 
+11,525247,perl unix scripting sysadmin daemon,0 
+11,11733481,c unix fork file-descriptor,0 
+11,27016385,android android-gradle,0 
+11,20164688,python django celery scalability,0 
+11,2856502,css firefox font-face,0 
+11,833661,javascript,0 
+11,10574381,osx applescript keychain apple-mail,0 
+11,1271516,javascript eval,0 
+11,9072175,css,0 
+11,5886738,ruby-on-rails-3 polymorphism,0 
+11,25873498,xcode signing xcode6gm,0 
+11,25281992,user-interface docker,0 
+11,4208929,c multithreading process pthreads,0 
+11,17727004,ajax ruby-on-rails-3.2 partial-views,0 
+11,21104259,ruby-on-rails-4 gem nomethoderror,0 
+11,822119,javascript code-formatting minify decompression unminify,0 
+11,1732743,python syntax-highlighting lex lexical-analysis,0 
+11,9850876,delphi markdown,0 
+11,10847852,backbone.js javascript-framework,0 
+11,19163457,angularjs angularjs-directive,0 
+11,17016960,google-chrome chromium,0 
+11,3001177,regex unix unicode grep,0 
+11,5315513,ruby-on-rails plugins captcha spam flooding,0 
+11,4526242,php osx fastcgi macports,0 
+11,8640927,asp.net-mvc-3 dynamic razor null viewbag,0 
+11,23074757,symfony2 netbeans annotations warnings fosrestbundle,0 
+11,20547198,git github pull-request,0 
+11,5958417,javascript function object,0 
+11,21746525,python xml python-2.7 xml-parsing xml.etree,0 
+11,9724817,node.js command-line,0 
+11,7799760,objective-c ios,0 
+11,3744568,python loops dictionary,0 
+11,21033096,c# visual-studio msbuild windows-store-apps,0 
+11,15179095,ios objective-c mpmovieplayercontroller uitapgesturerecognizer,0 
+11,630453,http rest post put,0 
+11,20450902,spring annotations cdi,0 
+11,3795477,emacs elisp,0 
+11,10012944,android,0 
+11,18448671,java list arraylist iterator,0 
+11,11593623,php soap,0 
+11,10853050,r interop operating-system,0 
+11,5451597,compression imaging pagespeed google-pagespeed,0 
+11,20141758,symfony2 doctrine2,0 
+11,18318983,javascript flash video webrtc broadcast,0 
+11,25939176,php python linux python-3.x unicode,0 
+11,1944625,python,0 
+11,19125551,javascript angularjs,0 
+11,2630004,text formatting uibutton,0 
+11,20330174,ios iphone camera avcapturesession frame-rate,0 
+11,15681618,delphi delphi-xe2 vcl,0 
+11,273743,shell wget,0 
+11,17239776,angularjs cors gruntjs,0 
+11,13671031,javascript angularjs,0 
+11,7977945,html parsing node.js nokogiri,0 
+11,7340925,c++,0 
+11,26827244,java exception inheritance abstract,0 
+11,16679801,android ffmpeg mpeg-4 mpeg2-ts,0 
+11,19071469,python powershell windows-7 virtualenv pycharm,0 
+11,1687262,git github,0 
+11,13352205,haskell monads free-monad,0 
+11,6541109,bash redirect stdin io-redirection,0 
+11,2087188,linux bash shell,0 
+11,24438170,android android-studio android-gradle android-5.0-lollipop,0 
+11,20235840,gruntjs,0 
+11,3928275,ruby-on-rails datetime date time timestamp,0 
+11,2517493,android,0 
+11,21052484,python google-app-engine google-cloud-storage,0 
+11,2149762,javascript,0 
+11,3220404,python pip setuptools easy-install pypi,0 
+11,89332,git git-stash,0 
+11,4199879,ios4 avfoundation,0 
+11,14038074,git memory clone bitbucket git-clone,0 
+11,3346333,eclipse-plugin reinstall,0 
+11,14552112,node.js express pdf-generation,0 
+11,4112289,html,0 
+11,21402384,python numpy split pandas time-series,0 
+11,700731,c++ qt,0 
+11,28063407,node.js ejs,0 
+11,24177885,raspberry-pi,0 
+11,20713572,google-compute-engine,0 
+11,18798718,ruby-on-rails paypal activemerchant,0 
+11,6993783,git svn synchronization,0 
+11,2644638,jquery plugins methods override,0 
+11,26445998,google-api hangout,0 
+11,10905905,ruby-on-rails sass asset-pipeline font-face,0 
+11,21066598,android android-studio,0 
+11,5556369,android,0 
+11,11081414,android service android-activity notifications,0 
+11,21692646,javascript facebook google-chrome-devtools,0 
+11,1596518,automated-tests web-crawler system-testing,0 
+11,11929773,android android-ndk openssl,0 
+11,16098046,java double,0 
+11,23984471,javascript angularjs promise bluebird angular-promise,0 
+11,21409904,ios iphone objective-c memory-management core-graphics,0 
+11,820178,git git-push,0 
+11,3025648,mysql csv load-data-infile,0 
+11,19032869,ios objective-c ios7 uicollectionview,0 
+11,20905280,php symfony2 configuration,0 
+11,10869932,http cookies google-apps-script,0 
+11,18924589,ios objective-c uitableview ios7,0 
+11,2937406,java jar clojure jni tokyo-cabinet,0 
+11,27255309,linux containers docker lxc rocket,0 
+11,21375073,angularjs twitter-bootstrap-3,0 
+11,16426774,javascript sorting underscore.js,0 
+11,5152921,mysql sql database windows import,0 
+11,19354870,bash shell command-line-arguments,0 
+11,19370138,parse.com,0 
+11,22263779,f# inversion-of-control composition solid-principles,0 
+11,5189560,git,0 
+11,1519006,git branch git-branch,0 
+11,11442632,post angularjs angular-http,0 
+11,21732806,xcode git github xcconfig,0 
+11,6431647,android search android-activity android-intent manifest,0 
+11,18365315,google-chrome-devtools,0 
+11,16651954,eclipse hibernate servlets spring-mvc tomcat7,0 
+11,6540500,ruby-on-rails ruby-on-rails-3 activerecord mongodb mongoid,0 
+11,466764,git,0 
+11,6724515,javascript html modernizr html5boilerplate,0 
+11,4462466,java spring annotations,0 
+11,15025622,entity-framework entity-framework-5 ef-migrations,0 
+11,1095663,python django,0 
+11,1132941,python language-design least-astonishment,0 
+11,6806584,javascript internet-explorer javascript-events,0 
+11,179338,version-control build-process,0 
+11,6209848,ruby-on-rails,0 
+11,2434534,c# string serialization xml-serialization,0 
+11,18329040,google-api ime,0 
+11,8417034,android,0 
+11,10585002,ruby osx rvm zsh,0 
+11,21009957,ios fonts ios7 cjk italic,0 
+11,20503060,java encryption cryptography aes mifare,0 
+11,4164185,ruby-on-rails nested-forms nested-attributes,0 
+11,27550228,python closures monkeypatching,0 
+11,6815039,c++ streaming client-server boost-asio,0 
+11,18371318,ruby-on-rails ruby twitter-bootstrap-3,0 
+11,572897,javascript dynamic-languages prototype-oriented,0 
+11,24391251,r packages,0 
+11,19119186,javascript angularjs,0 
+11,3199790,sqlite profiling sqlite3,0 
+11,117415,svn version-control branch,0 
+11,5418369,javascript jquery backbone.js,0 
+11,6416117,c++ c opencv image-processing object-detection,0 
+11,12535798,java android naming-conventions package conventions,0 
+11,8549751,android listview checkbox,0 
+11,10451722,ruby-on-rails ruby-on-rails-3 json,0 
+11,21790337,git ssh gitlab nfs docker,0 
+11,7846181,android android-emulator,0 
+11,6186537,android,0 
+11,18947516,ios objective-c import ios7,0 
+11,3011625,osx git version-control case-sensitive,0 
+11,11208992,forms validation symfony2,0 
+11,7652171,delphi winapi ms-word ole,0 
+11,9896406,objective-c xcode storyboard xib,0 
+11,130794,design-patterns language-agnostic dependency-injection terminology,0 
+11,21336464,php api rest symfony2 client,0 
+11,3675045,android gdb android-ndk,0 
+11,1385737,java swing scroll jpanel,0 
+11,16987362,regex vim,0 
+11,4545661,python unicode,0 
+11,17796750,backbone.js backbone-routing,0 
+11,7394276,sql sql-server tsql optimization string-comparison,0 
+11,17134401,javascript angularjs angularjs-resource,0 
+11,18150961,scala executable-jar scala-compiler,0 
+11,19306452,angularjs angularjs-filter,0 
+11,19898587,vagrant puppet vmware-fusion,0 
+11,19994775,syntax go go-interface,0 
+11,27158361,javascript design-patterns javascript-module,0 
+11,9819999,java tomcat guice resourcebundle,0 
+11,4785419,image image-processing opencv image-recognition,0 
+11,5631078,python sqlalchemy,0 
+11,17835123,iphone ios ipad ios5 uiinterfaceorientation,0 
+11,18760630,session angularjs cookies,0 
+13,8411371,llvm,0 
+13,22323039,ios objective-c xcode xcode5.1,0 
+13,2338267,iphone apple-push-notifications devicetoken,0 
+13,20102457,scala playframework url-routing,0 
+13,26008965,compiler-construction jit,0 
+14,9708192,javascript syntax object-literal,0 
+14,18144094,google-app-engine google-drive-sdk google-apps,0 
+14,19460046,debugging angularjs jsfiddle,0 
+14,14133077,android bootcompleted powermanager,0 
+14,21627082,unity3d augmented-reality vuforia metaio,0 
+15,22385205,java spring spring-security spring-java-config,0 
+15,21862784,nfc,0 
+15,2816369,git git-push,0 
+15,20915661,java comparable,0 
+15,296536,bash shell scripting urlencode,0 
+15,16015020,scala haskell functional-programming programming-languages category-theory,0 
+15,8794140,javascript node.js window,0 
+15,7340925,c++,0 
+15,7496391,java connection-pooling apache-commons-dbcp,0 
+15,20074368,search full-text-search elasticsearch,0 
+16,20590239,html css responsive-design aspect-ratio,0 
+16,371898,model-view-controller language-agnostic differential-execution,0 
+16,12562875,android bluetooth,0 
+16,20965037,java oop encapsulation,0 
+16,20324638,git github git-rebase revert git-revert,0 
+17,22173425,django django-rest-framework,0 
+17,15933689,django django-views django-queryset,0 
+17,15666048,angularjs dependency-injection angularjs-service angularjs-factory,0 
+17,837828,django slug,0 
+17,22080750,docker,0 
+17,2067472,javascript json jsonp,0 
+17,3746947,bash wc,0 
+17,972370,bash cygwin grep pipe cut,0 
+17,762336,ruby rack,0 
+17,13146553,gps ios-simulator emulation gpx,0 
+17,25019938,ios objective-c json github-mantle,0 
+17,5327465,python fabric,0 
+17,2768087,java jmx,0 
+17,21460491,java serialization,0 
+17,12054449,ajax symfony2 csrf,0 
+17,18041267,xcode provisioning-profile xcode5,0 
+17,2517493,android,0 
+17,11535617,amazon-web-services amazon-ec2 amazon-ebs,0 
+17,1943576,dependency-injection inversion-of-control unity ioc-container interface-design,0 
+17,20675605,java linux multithreading matching,0 
+17,4465666,haskell cabal happy alex,0 
+17,16651954,eclipse hibernate servlets spring-mvc tomcat7,0 
+17,27543565,schema.org,0 
+17,9403675,javascript backbone.js backbone-events,0 
+17,1697084,android textview,0 
+17,14463091,jquery jquery-ui animation jquery-animate easing,0 
+17,11854514,angularjs,0 
+17,3847162,java generics,0 
+17,18436132,node.js v8 chromium-embedded,0 
+17,2149762,javascript,0 
+17,10297054,java web-services jaxb jax-ws,0 
+17,3802370,java caching map,0 
+17,23264044,json rest spring-data spring-data-jpa spring-data-rest,0 
+17,3439316,jquery internet-explorer internet-explorer-8 trim,0 
+17,3767794,java collections,0 
+17,25554062,haskell zipper deriving comonad,0 
+17,683041,java priority-queue,0 
+17,2347384,java database jdbc guice,0 
+17,2078978,oop functional-programming programming-paradigms,0 
+17,11443996,android eclipse localization android-resources android-lint,0 
+18,15542608,design-patterns exception-handling,0 
+18,4403523,xml database,0 
+18,343669,java jaxb boolean,0 
+18,3004696,php,0 
+18,16303821,c++ sublimetext2 code-snippets,0 
+18,1953530,java inner-classes static-members,0 
+18,8978080,apache .htaccess authorization,0 
+18,24541262,java intellij-idea,0 
+18,18345179,angularjs gruntjs yeoman,0 
+18,20239484,symfony2 twig,0 
+18,9316612,javascript jquery tilde,0 
+18,406760,language-agnostic,0 
+18,11905630,java object inheritance clone instance,0 
+18,2604727,android networking tcp debugging adb,0 
+18,9253323,java oracle hibernate spring blob,0 
+18,13997468,javascript autocomplete google-chrome-extension intellij-idea webstorm,0 
+18,14129662,google-apps-script google-docs-api,0 
+18,13694186,android collections android-appwidget,0 
+18,3971841,javascript jquery image resize,0 
+18,14298972,java,0 
+18,21409904,ios iphone objective-c memory-management core-graphics,0 
+18,8570659,session nosql memcached redis cassandra,0 
+18,8486099,javascript,0 
+18,10067848,git github rebase git-rebase,0 
+18,3442881,django django-models django-admin,0 
+18,20300201,c++ python qt,0 
+18,24273932,d3.js processing visualization vector-graphics,0 
+18,11844829,java jigsaw,0 
+18,111234,python callable,0 
+18,22039319,linux,0 
+19,20663076,angularjs,0 
+19,11429774,node.js heroku redis rabbitmq kue,0 
+19,24702432,javascript angularjs cookies,0 
+19,9273204,ios,0 
+19,20796046,java classloader,0 
+19,7017281,ios objective-c iphone memory-leaks automatic-ref-counting,0 
+19,20323397,arrays json.net deserialization strong-typing,0 
+19,21358449,ios objective-c afnetworking-2,0 
+19,9249832,oop design-patterns solid-principles,0 
+19,3102819,javascript ajax google-chrome,0 
+19,14348066,android system signature protection level,0 
+19,7453288,java code-smell instanceof,0 
+19,23750399,python anaconda conda,0 
+19,5142405,css,0 
+19,3452086,r path,0 
+19,13023338,angularjs,0 
+19,8136192,c osx dlopen dlsym,0 
+19,17159567,python django django-forms,0 
+19,6210105,compiler-construction coffeescript interpreter bootstrapping,0 
+19,657447,search vim highlight,0 
+19,10260015,meteor,0 
+19,22799733,javascript html5 polymer shadow-dom,0 
+19,22958188,ruby-on-rails sidekiq,0 
+19,13607194,delphi delphi-xe2 imap,0 
+19,3508605,css css3 css-transitions,0 
+19,18924587,javascript html css css3 responsive-design,0 
+19,21202688,java int operators double,0 
+19,4199879,ios4 avfoundation,0 
+19,1155578,c linux arrays unix,0 
+19,15359218,email mailchimp transactional-email mandrill,0 
+19,26596901,python matplotlib bokeh,0 
+19,1944117,android android-camera,0 
+19,14870945,node.js event-loop,0 
+19,4689,fonts development-environment,0 
+19,6931342,python linux mutex,0 
+19,1941738,java design-patterns,0 
+19,20965037,java oop encapsulation,0 
+19,3413137,java caching oracle10g,0 
+19,17137909,python github github-api github3.py,0 
+19,17132698,c# .net entity-framework sqlite,0 
+19,13710967,android multi-touch mask,0 
+19,6320744,javascript browser webkit llvm gecko,0 
+19,23251351,node.js twitter-bootstrap-3 ubuntu-14.04,0 
+19,10638087,php algorithm anagram,0 
+19,20796432,java,0 
+19,8327846,android canvas bitmap resize surfaceview,0 
+19,8938531,java unit-testing tell-dont-ask,0 
+19,19855552,github-pages,0 
+19,4764167,java linux top-command,0 
+19,14452674,java jms publish-subscribe,0 
+19,5023762,django,0 
+19,683425,emacs keyboard-shortcuts,0 
+19,6696425,php arrays key default-value code-golf,0 
+19,1096650,java junit assert,0 
+19,8877666,javascript hash hashmap,0 
+19,20423947,ios payment braintree,0 
+19,16726779,linux linux-kernel,0 
+19,9042020,php api authentication rest cakephp-2.0,0 
+19,16286605,javascript angularjs asynchronous service angular-promise,0 
+19,907260,architecture scalability,0 
+19,15699995,refactoring,0 
+19,16223026,osx shell command-line,0 
+19,12560590,android crash stack forceclose,0 
+19,7616461,javascript jquery hash,0 
+19,20943094,functional-programming java-8 monads java-stream,0 
+19,23984471,javascript angularjs promise bluebird angular-promise,0 
+19,12791025,java jmx,0 
+19,21375659,java string immutability,0 
+19,11269256,git stash,0 
+19,13858935,cakephp scheduled-tasks cakephp-2.2 windows-2003-webserver cakephp-2.3,0 
+19,3935574,ios objective-c automatic-ref-counting objective-c-blocks,0 
+19,22355977,c# linq entity-framework lambda ienumerable,0 
+19,3975499,javascript svg,0 
+19,5078100,java android performance file-io byte-order,0 
+19,1294701,binary-tree traversal non-recursive,0 
+19,6585337,java concurrency operating-system,0 
+19,16681952,ios avfoundation barcode zxing barcode-scanner,0 
+19,16987512,android gradle android-studio android-holo-everywhere,0 
+19,16820852,git git-cherry-pick,0 
+19,198968,mysql windows backup,0 
+19,13214741,r latex knitr,0 
+19,5385024,java,0 
+19,5920136,mysql mysql-error-1064,0 
+19,21329382,performance symfony2 orm doctrine,0 
+19,20217617,java ssl https weblogic keystore,0 
+19,5697171,java regex unicode,0 
+19,16303821,c++ sublimetext2 code-snippets,0 
+19,6221510,python django,0 
+19,13208784,android proguard,0 
+19,5687341,iphone,0 
+19,1411612,java unit-testing,0 
+19,138511,java debugging,0 
+19,21692646,javascript facebook google-chrome-devtools,0 
+19,11726672,iphone objective-c ios cocoa-touch ipad,0 
+19,19539863,haskell snap-framework heist,0 
+19,182630,javascript jquery tips-and-tricks hints-and-tips,0 
+19,5291950,java jpa oodbms objectdb,0 
+19,6188543,iphone objective-c ipad uitableview,0 
+19,23835898,javascript node.js npm gulp browserify,0 
+19,11905630,java object inheritance clone instance,0 
+19,4526242,php osx fastcgi macports,0 
+19,5315513,ruby-on-rails plugins captcha spam flooding,0 
+19,498217,java exception throwable,0 
+19,11362065,c++ boost boost-statechart,0 
+19,27255309,linux containers docker lxc rocket,0 
+19,179338,version-control build-process,0 
+19,11038313,logging soap cxf interceptor,0 
+19,466764,git,0 
+19,10368620,php constants,0 
+19,21261566,java xml hibernate jaxb,0 
+19,508834,eclipse,0 
+19,15174282,ios xcode debugging ios-simulator lldb,0 
+19,25977,algorithm language-agnostic image image-processing,0 
+19,5814190,django migration django-south,0 
+19,7678469,objective-c cocoa-touch ios5 interface-builder automatic-ref-counting,0 
+19,1568091,oop setter getter abstraction,0 
+19,12317391,c# asp.net asp.net-mvc-4 asp.net-optimization bundling-and-minification,0 
+19,8029279,java annotations,0 
+19,15554900,gradle,0 
+19,19421468,python django yeoman,0 
+19,16999343,android alarmmanager,0 
+19,5210840,java byte bytearray buffer,0 
+19,21460491,java serialization,0 
+19,22323039,ios objective-c xcode xcode5.1,0 
+19,24572771,jersey jax-rs jersey-2.0,0 
+19,7127153,php .htaccess access-control hotlinking,0 
+19,2071050,java spring logging aop spring-aop,0 
+19,25010763,java enums strategy-pattern,0 
+19,1329291,git version-control,0 
+19,5649868,ruby-on-rails heroku,0 
+19,17405702,mysql database-design,0 
+19,8146942,ios ios4 mpmovieplayercontroller avfoundation avplayer,0 
+19,16146117,google-app-engine go google-oauth,0 
+19,16857450,django python-2.7 django-models django-rest-framework,0 
+19,20989055,java exception command-line console stack-trace,0 
+19,22293236,angularjs plugins timeline,0 
+19,28495280,java garbage-collection,0 
+19,13292237,c++ macros c++11 string-literals constexpr,0 
+19,23342330,python mysql sql django,0 
+19,7067578,java,0 
+19,255470,html xhtml doctype,0 
+19,20337040,smtp phpmailer dreamhost mediatemple smtp-auth,0 
+19,23595851,ruby-on-rails,0 
+19,25596938,python image matplotlib pie-chart wedge,0 
+19,4726370,java caching hadoop ehcache berkeley-db,0 
+19,4904096,testing,0 
+19,4997907,android sharedpreferences android-preferences preferenceactivity,0 
+19,3893084,java,0 
+19,17401971,matlab unit-testing,0 
+19,4604237,scala file-io scala-2.8,0 
+19,129178,java arrays,0 
+19,22227225,forms symfony2 object entity,0 
+19,22506008,php intellij-idea phpstorm,0 
+19,1335851,javascript syntax jslint use-strict,0 
+19,13158796,iphone ios cocoa core-animation,0 
+19,22512446,angularjs azure signalr signalr-hub,0 
+19,22905339,java reflection metaprogramming,0 
+19,12188381,ruby-on-rails,0 
+19,17480044,ubuntu go,0 
+19,21547241,iphone xcode5 animatewithduration,0 
+19,4920028,svn,0 
+19,21639636,autocomplete sublimetext2 sublimetext code-snippets sublimetext3,0 
+19,16718026,android gradle android-studio,0 
+19,22987392,java hibernate,0 
+19,16635398,java for-loop java-8,0 
+19,14309131,xcode cocoa frameworks xpc,0 
+19,665193,javascript google-maps animation handheld,0 
+19,5205602,php facebook permissions facebook-php-sdk,0 
+19,4978578,string haskell,0 
+19,3170412,java bit-manipulation,0 
+19,852665,java command-line progress-bar,0 
+19,9707693,php header,0 
+19,9858897,entity-framework ef-code-first foreign-key-relationship fluent-interface,0 
+19,12393671,javascript,0 
+19,15542608,design-patterns exception-handling,0 
+19,11172207,iphone ios core-graphics uifont cgpath,0 
+19,3639596,eclipse editor text-editor,0 
+19,359494,javascript operators equality equality-operator identity-operator,0 
+19,3554787,video join ffmpeg video-processing mts,0 
+19,9445973,java wrapper nio,0 
+19,25639511,ios objective-c cocoa-touch,0 
+19,23450494,cross-domain jax-rs java-ee-7 wildfly-8,0 
+19,19383308,java,0 
+19,10951341,python pandas,0 
+19,3969813,algorithm sorting concurrency,0 
+19,9389730,multithreading synchronization mutex multiprocessing semaphore,0 
+19,3177338,linux linux-kernel,0 
+19,10553860,nosql use-case,0 
+19,4465666,haskell cabal happy alex,0 
+19,683041,java priority-queue,0 
+19,117690,java multithreading concurrency,0 
+19,23352704,python windows pyserial firewire,0 
+19,9153598,git github,0 
+19,16617638,android eclipse-plugin eclipse-adt android-studio,0 
+19,6840803,java thread-safety simpledateformat,0 
+20,10833027,opencv svm,0 
+20,10189356,git github markdown,0 
+20,20880231,java garbage-collection jvm,0 
+20,21799382,docker,0 
+20,7344203,ios,0 
+20,4166966,java generics java-7 diamond-operator,0 
+20,26458767,django rest django-rest-framework nested-resources,0 
+20,3042437,git,0 
+20,13997771,android android-emulator emulator avd,0 
+20,13208784,android proguard,0 
+22,2130199,java rule-engine,0 
+22,9605109,javascript math artificial-intelligence raphael particles,0 
+22,6724515,javascript html modernizr html5boilerplate,0 
+22,4604005,css html overflow css-float,0 
+22,19442616,git git-clean,0 
+22,18934811,ios xcode xctest,0 
+22,6468204,m2eclipse m2e maven-jaxb2-plugin,0 
+22,18008348,process operating-system hardware cpu interrupt,0 
+22,13148013,asp.net microsoft-ajax,0 
+22,10067848,git github rebase git-rebase,0 
+22,391979,javascript ip-address clientip,0 
+22,1492852,iphone cocoa-touch uiviewcontroller uinavigationcontroller uitableview,0 
+22,2322953,java web-services soap jax-ws ws-security,0 
+22,20915372,java multithreading serialization transient,0 
+22,19717902,android bluetooth-lowenergy android-4.4-kitkat,0 
+22,10885044,mongodb,0 
+22,21009957,ios fonts ios7 cjk italic,0 
+22,11318492,delphi layout ms-word ole,0 
+22,19323563,ruby-on-rails heroku,0 
+22,23023650,javascript node.js gulp,0 
+22,21555710,java rmi jmx,0 
+22,4365621,jndi,0 
+22,4649231,c++ bitmask,0 
+22,3403465,android,0 
+22,496928,java instanceof reflection,0 
+22,1074580,version-control clearcase,0 
+22,1168807,javascript object-literal,0 
+22,4312613,iphone ios4,0 
+22,880227,rpm rpmbuild,0 
+22,5738792,c++ ios c opencv image-processing,0 
+22,4589750,java exception enums design-patterns,0 
+22,6059071,php perl thrift,0 
+22,2071050,java spring logging aop spring-aop,0 
+22,6645567,c linux multithreading ubuntu-10.04,0 
+22,5720508,r rodbc,0 
+22,14751440,php ant composer-php,0 
+22,7759855,java eclipse intellij-idea,0 
+22,16943609,html image internet-explorer cross-browser favicon,0 
+22,18970313,objective-c xcode compiler-optimization precompiled-headers llvm-clang,0 
+22,9258451,android eclipse android-ndk eclipse-cdt,0 
+22,20661391,android mediacodec,0 
+22,3142495,c# .net json serialization dynamic,0 
+22,21886011,security symfony2,0 
+22,6926159,java asynchronous request response,0 
+22,21012156,google-api google-drive-sdk google-api-dotnet-client,0 
+22,7067578,java,0 
+22,15975988,android facebook,0 
+22,3021062,mysql mysqldump,0 
+22,2699902,ruby,0 
+22,10833027,opencv svm,0 
+22,14098031,factory-girl,0 
+22,25088252,ios xcode swift lldb beta,0 
+22,3296260,git branch,0 
+22,2434534,c# string serialization xml-serialization,0 
+22,947182,java profiling classloader jar,0 
+22,28350552,python matplotlib plot bokeh,0 
+22,2030064,java eclipse,0 
+22,21411988,ruby-on-rails-4 carrierwave,0 
+22,19577299,android android-camera surfaceview preview aspect-ratio,0 
+22,10218895,java events observer-pattern observable,0 
+22,25618873,spring soap cxf spring-boot,0 
+22,5198105,java c++ android jni android-ndk,0 
+22,5613345,linux git,0 
+22,17311059,python mysql django bulkinsert bulk,0 
+22,14029366,memcached ehcache spymemcached,0 
+22,728295,java log4j,0 
+22,237987,eclipse code-snippets,0 
+22,19135791,unity3d unityscript,0 
+22,20876780,google-app-engine google-cloud-storage,0 
+22,6981564,tomcat jdbc,0 
+22,1227121,python object,0 
+22,7870265,android eclipse adt android-sdk-tools dex,0 
+22,11413421,iphone ios gps augmented-reality,0 
+22,4913123,browser cross-browser cross-platform,0 
+22,20864884,deployment meteor,0 
+22,101268,python hidden-features,0 
+22,21724581,linux,0 
+22,25939176,php python linux python-3.x unicode,0 
+22,5353278,ajax xcode uiwebview xmlhttprequest,0 
+22,3454063,php oauth oauth-provider,0 
+22,19354870,bash shell command-line-arguments,0 
+22,14144664,http-status-codes rfc http-status-code-308,0 
+22,9197031,netbeans,0 
+22,21336464,php api rest symfony2 client,0 
+22,2628672,javascript programming-languages,0 
+22,20211167,java testng,0 
+22,1553160,python sqlite,0 
+22,19208231,haskell parsec attoparsec,0 
+22,20988613,java arraylist java.util.scanner,0 
+22,28289554,css,0 
+22,20664277,ruby-on-rails configuration actionmailer,0 
+22,10486375,java optimization printing jvm flags,0 
+22,3385576,java jms weblogic websphere-mq oracle-service-bus,0 
+22,750486,javascript loops closures,0 
+22,1690404,oracle constraints sql-drop,0 
+22,14859281,jquery jquery-ui,0 
+22,901555,c# design-patterns oop io,0 
+22,1285110,singleton factory,0 
+22,1762836,iphone folder new-operator document nsfilemanager,0 
+22,8469611,php linked-list,0 
+23,20089632,java list generics collections wildcard,0 
+23,6771258,internet-explorer browser x-ua-compatible,0 
+23,9605109,javascript math artificial-intelligence raphael particles,0 
+23,22512446,angularjs azure signalr signalr-hub,0 
+23,14348066,android system signature protection level,0 
+23,9138294,events design design-patterns twisted eventmachine,0 
+23,188311,java unit-testing oop,0 
+23,19589198,java oop tdd design-principles,0 
+23,15604196,angularjs deferred promise,0 
+23,4481226,android overlay android-ui,0 
+24,21280652,java concurrency junit4,0 
+24,2997843,c# parameters delegates lambda,0 
+24,2770321,java generics raw-types,0 
+24,19483087,mysql ubuntu,0 
+24,3893084,java,0 
+25,1055398,c++ multithreading c++11 mutex condition-variable,0 
+25,10145523,java sorting object arraylist,0 
+25,2052390,python exception exception-handling,0 
+25,16158605,python latex python-sphinx,0 
+25,238980,iphone ios xcode,0 
+26,19977002,java jaxb2 jersey-2.0,0 
+26,10906341,twitter-bootstrap,0 
+26,2303713,javascript json dom serialization circular-reference,0 
+26,4672505,jquery select input,0 
+26,2828174,vim word-wrap,0 
+26,975271,java debugging,0 
+26,1623375,algorithm function math square-root newtons-method,0 
+26,199333,c++ c integer-overflow,0 
+26,8469611,php linked-list,0 
+26,10486375,java optimization printing jvm flags,0 
+26,13294919,python image stream ffmpeg python-imaging-library,0 
+26,22512446,angularjs azure signalr signalr-hub,0 
+26,13858935,cakephp scheduled-tasks cakephp-2.2 windows-2003-webserver cakephp-2.3,0 
+26,11905630,java object inheritance clone instance,0 
+26,19025336,django gunicorn coverage.py,0 
+26,4159783,types computer-science type-theory,0 
+26,9445973,java wrapper nio,0 
+26,5339276,iphone objective-c ios swizzling,0 
+26,1552340,git git-diff,0 
+26,6508529,c# generics covariant,0 
+26,1519006,git branch git-branch,0 
+26,18824189,angularjs sublimetext2,0 
+26,5875414,java,0 
+26,21379255,c# winforms linq collections string-search,0 
+26,14876112,javascript jquery angularjs,0 
+26,3785706,spring-security,0 
+26,22824546,javascript node.js coffeescript gulp,0 
+26,5350476,java jax-ws,0 
+26,21280652,java concurrency junit4,0 
+26,4604237,scala file-io scala-2.8,0 
+26,21890928,html css twitter-bootstrap-3,0 
+26,3723634,android,0 
+26,28492897,python-2.7 google-api-python-client,0 
+26,473446,java environment,0 
+26,3226282,java naming-conventions packages,0 
+26,24534631,regex bash grep,0 
+26,18225126,git unity3d,0 
+26,1549801,python oop inheritance types,0 
+26,11942762,android adb,0 
+26,12913141,node.js npm,0 
+26,16142,svn tags branch glossary trunk,0 
+26,12393671,javascript,0 
+26,13739866,java regex,0 
+26,19168423,objective-c documentation comments doxygen xcode5,0 
+26,20299840,java arraylist,0 
+26,4090518,javascript,0 
+26,5597935,jax-ws playframework,0 
+26,22736141,google-apps-script google-drive-sdk,0 
+26,6186537,android,0 
+26,27016385,android android-gradle,0 
+26,630453,http rest post put,0 
+26,26024390,amazon-ec2 autoscaling coreos,0 
+26,13368100,python exception,0 
+26,18760630,session angularjs cookies,0 
+26,14552112,node.js express pdf-generation,0 
+26,1574797,ruby-on-rails testing seed,0 
+26,2423284,java multithreading garbage-collection,0 
+26,10585002,ruby osx rvm zsh,0 
+26,23023650,javascript node.js gulp,0 
+26,5814190,django migration django-south,0 
+26,13797670,forms api node.js http post,0 
+26,9001142,php session nosql amazon-dynamodb,0 
+26,6460604,javascript jsdoc,0 
+26,6457130,c# java c++ c,0 
+26,24829432,php rounding-error money-format,0 
+26,5291950,java jpa oodbms objectdb,0 
+26,3102819,javascript ajax google-chrome,0 
+26,4361553,php oop private public protected,0 
+26,26430863,meteor,0 
+26,25011061,java enums,0 
+26,314199,parsing autocomplete,0 
+26,4181884,html css internet-explorer-7 pseudo-element,0 
+26,3376562,c++ windows multithreading architecture multiprocess,0 
+26,21012156,google-api google-drive-sdk google-api-dotnet-client,0 
+26,24273932,d3.js processing visualization vector-graphics,0 
+26,866989,osx unix path fish-shell,0 
+26,4693608,python,0 
+26,21019872,ios objective-c core-data,0 
+26,238980,iphone ios xcode,0 
+26,15496,java,0 
+28,12625876,javascript jquery,0 
+28,1750435,java enums,0 
+28,1851174,mysql portability,0 
+28,21632559,php symfony2 symfony-2.3 silex,0 
+28,21001387,go,0 
+28,2135478,bash scripting cron,0 
+28,8177725,java abstract inner-classes,0 
+28,6186537,android,0 
+28,28701318,javascript performance google-chrome-devtools frontend,0 
+28,25211840,docker coreos kubernetes,0 
+29,21155397,docker coreos,0 
+29,6508529,c# generics covariant,0 
+29,23223308,google-compute-engine,0 
+29,15161434,objective-c cocoa-touch cocoa grand-central-dispatch,0 
+29,22394089,scope output pseudocode,0 
+29,18924589,ios objective-c uitableview ios7,0 
+29,714877,windows powershell,0 
+29,17972347,python windows gcc mingw installation,0 
+29,1338728,git,0 
+29,6328535,php doctrine2 symfony2 cascading-deletes,0 
+30,18773886,sublimetext2 sublimetext lowercase,0 
+30,7323191,r label key ggplot2,0 
+30,21235272,android android-intent,0 
+30,1451468,php windows-xp intl,0 
+30,6524709,django api view,0 
+33,4409100,java generics,0 
+33,23199418,ruby-on-rails ruby-on-rails-4,0 
+33,602444,terminology,0 
+33,21863392,google-compute-engine,0 
+33,26878570,meteor,0 
+34,3173070,design-patterns architecture domain-driven-design use-case,0 
+34,18148490,pagination gem github-api,0 
+34,1687262,git github,0 
+34,9046171,eclipse eclipse-plugin code-coverage,0 
+34,231767,python iterator generator yield,0 
+34,933367,php,0 
+34,25735824,linq entity-framework asp.net-mvc-4 entity-framework-5,0 
+34,9258451,android eclipse android-ndk eclipse-cdt,0 
+34,2057752,java design design-patterns automata finite-state-machine,0 
+34,20938520,google-compute-engine,0 
+35,663958,multicore intel system-calls instruction-set,0 
+35,904314,ruby-on-rails ruby,0 
+35,25200754,ios ibeacon,0 
+35,9119999,delphi pipe windows-shell shellexecute,0 
+35,25630611,reactjs reactjs-flux,0 
+36,17274329,svn,0 
+36,20917989,java parsing abstract-syntax-tree visitor,0 
+36,10869932,http cookies google-apps-script,0 
+36,19637614,ios security keychain,0 
+36,23411337,ruby-on-rails ruby paypal,0 
+36,4208558,search jira,0 
+36,17743879,linux shell process child-process,0 
+36,6645567,c linux multithreading ubuntu-10.04,0 
+36,17742782,ruby-on-rails paypal payment-gateway activemerchant recurring-billing,0 
+36,21100688,android import gradle android-studio,0 
+36,9745197,ruby-on-rails-3 paypal activemerchant,0 
+36,5467174,algorithm random shuffle,0 
+36,11794269,android android-viewpager,0 
+36,4991533,c linux ipc shared-memory mmap,0 
+36,4646147,php jquery facebook javascript-library,0 
+37,23760275,ios objective-c uicollectionview uicollectionviewcell uicollectionviewlayout,0 
+37,7369460,java functor,0 
+37,19804233,java android android-camera,0 
+37,21375073,angularjs twitter-bootstrap-3,0 
+37,28495280,java garbage-collection,0 
+38,20943094,functional-programming java-8 monads java-stream,0 
+38,9613565,xcode xcode4.2 osx-snow-leopard ios5.1,0 
+38,17410287,css performance mobile scroll rasterizing,0 
+38,6167266,java uml reverse-engineering class-diagram,0 
+38,562303,c,0 
+38,1457103,git branch git-tag,0 
+38,19236783,javascript lua closures variable-scope,0 
+38,18345179,angularjs gruntjs yeoman,0 
+38,24489265,osx proxy docker boot2docker,0 
+38,25982466,python regex performance state-machines,0 
+38,487258,algorithm complexity-theory computer-science big-o time-complexity,0 
+38,6541109,bash redirect stdin io-redirection,0 
+38,3538144,git,0 
+38,9333681,java bitset,0 
+38,75175,java generics,0 
+38,6430448,c optimization gcc assembly floating-point,0 
+38,9589727,mysql entity-relationship mysql-workbench,0 
+38,1092219,java string junit assert,0 
+38,19975326,google-plus,0 
+38,12808084,iphone ios xcode quartz-graphics drawrect,0 
+39,1035949,java jms message-queue,0 
+39,2937406,java jar clojure jni tokyo-cabinet,0 
+39,6127328,git version-control branch-per-feature,0 
+39,21790337,git ssh gitlab nfs docker,0 
+39,5065357,sql-server ssms,0 
+39,4472187,xcode gdb ios-simulator ios-ui-automation,0 
+39,3567001,resharper resharper-5.0,0 
+39,22051705,java junit4 junit-runner,0 
+39,12952729,c hashmap machine-learning locality-sensitive-hash,0 
+39,118243,eclipse osx,0 
+39,7012625,oracle plsql oracle9i,0 
+39,11252067,android android-screen,0 
+39,27255309,linux containers docker lxc rocket,0 
+39,26172628,meteor oauth-2.0 google-api,0 
+39,2428186,java class behavior,0 
+39,7616461,javascript jquery hash,0 
+39,3165938,android animation rotation,0 
+39,4101641,ruby-on-rails devise,0 
+39,17386839,css jquery-ui,0 
+39,2550763,c# .net system.reactive,0 
+39,4767944,database tree nosql hierarchical-data,0 
+39,60174,php mysql sql security sql-injection,0 
+39,9316233,objective-c ios storyboard reverse segue,0 
+39,2052390,python exception exception-handling,0 
+39,18153410,node.js q,0 
+39,9042020,php api authentication rest cakephp-2.0,0 
+39,963420,ruby-on-rails scaffolding,0 
+39,3539549,c++ c metaprogramming preprocessor,0 
+39,1191464,html css background,0 
+39,4545661,python unicode,0 
+39,16084741,docker,0 
+39,21155397,docker coreos,0 
+39,15918617,security authentication symfony2 extending,0 
+39,3420071,javascript,0 
+39,9174282,sql nosql persistence,0 
+39,4961355,android layout width relativelayout,0 
+39,6677035,jquery,0 
+39,52704,git,0 
+39,1000597,javascript events mootools preventdefault,0 
+39,1957989,php database similarity street-address levenshtein-distance,0 
+39,2846653,python multithreading sample,0 
+39,21527894,java generics,0 
+39,19333578,git github,0 
+39,18897485,ios objective-c uikit uinavigationbar ios7,0 
+39,19372260,r knitr rstudio rmarkdown,0 
+39,5210840,java byte bytearray buffer,0 
+39,2751870,c++ objective-c c preprocessor stringize,0 
+39,10297054,java web-services jaxb jax-ws,0 
+39,4754392,iphone ios cocoa-touch uiview rounded-corners,0 
+39,2726071,java character-encoding character byte,0 
+39,2220815,unit-testing scala comparison scalatest,0 
+39,21597910,backbone.js javascript-framework,0 
+39,5509543,git push git-push git-non-bare-repository,0 
+39,17440415,web go production,0 
+39,957422,ruby-on-rails actionmailer,0 
+39,15636367,node.js package npm,0 
+39,3170634,ruby-on-rails database sqlite3 sqlite3-ruby,0 
+39,6186537,android,0 
+39,7129232,github,0 
+39,16186089,eclipse ide,0 
+39,665193,javascript google-maps animation handheld,0 
+39,27041974,javascript,0 
+39,27120992,javascript regex,0 
+39,25317405,rest spring-security spring-boot restful-authentication stateless,0 
+39,18746929,ios uitableview autolayout,0 
+39,9392735,linux bash cp,0 
+39,22310925,linux virtualization docker lxc,0 
+39,1732348,html regex xhtml,0 
+39,5127954,bash delimiter,0 
+39,5142405,css,0 
+39,19929282,c# entity-framework,0 
+39,11471722,c++ cilk cilk-plus,0 
+39,18770517,javascript jquery ruby-on-rails-4 asset-pipeline turbolinks,0 
+39,21075652,oop law-of-demeter,0 
+39,2905542,android icons badge,0 
+41,19296595,android nfc mifare apdu,0 
+41,20083224,ios clang,0 
+41,12345503,cryptography aes mifare,0 
+41,1000597,javascript events mootools preventdefault,0 
+41,11362298,java concurrency java.util.concurrent,0 
+42,27550228,python closures monkeypatching,0 
+42,17497012,ruby-on-rails ruby heroku,0 
+42,8096313,r package,0 
+42,11905630,java object inheritance clone instance,0 
+42,2220815,unit-testing scala comparison scalatest,0 
+43,14098031,factory-girl,0 
+43,2389361,git undo git-merge,0 
+43,9083759,iphone ios xcode storyboard xib,0 
+43,20802717,java multithreading volatile,0 
+43,5135609,javascript google-chrome safari applescript applescript-objc,0 
+45,8877666,javascript hash hashmap,0 
+45,1526794,git git-branch,0 
+45,28292996,python,0 
+45,17940334,android,0 
+45,2826752,computer-science podcast,0 
+45,9755185,ruby-on-rails ruby-on-rails-3 integration-testing capybara minitest,0 
+45,395401,java debugging,0 
+45,5418951,signal-processing window-functions,0 
+45,998737,java eclipse tomcat,0 
+45,1127920,java eclipse suppress-warnings generated-code,0 
+45,14002965,java generics name-clash,0 
+45,21416561,haskell monads,0 
+45,15167981,firebase firebase-security,0 
+45,25837722,ios xcode provisioning-profile ios-app-extension,0 
+45,25970132,osx postgresql homebrew osx-yosemite,0 
+45,1173068,eclipse debugging,0 
+45,9258451,android eclipse android-ndk eclipse-cdt,0 
+45,5272451,objective-c categories,0 
+45,835621,java performance jdbc connection-pooling,0 
+45,948174,sql mysql blobs,0 
+45,402217,python django orm persistence,0 
+45,12641223,c# .net windows-store windows-store-apps,0 
+45,4212036,haskell cygwin cabal,0 
+45,1813853,java compilation conditional conditional-compilation,0 
+45,15635023,android ubuntu sdk proxy,0 
+45,21358027,javascript jquery d3.js,0 
+45,14076296,java annotations,0 
+45,14262433,python mongodb pandas large-data hdf5,0 
+45,2507898,android android-image android-gallery,0 
+45,783811,git proxy,0 
+45,3042437,git,0 
+45,3617708,c# extension-methods abstract-class,0 
+45,21639636,autocomplete sublimetext2 sublimetext code-snippets sublimetext3,0 
+45,9924169,python django saas,0 
+45,22051705,java junit4 junit-runner,0 
+45,20141758,symfony2 doctrine2,0 
+45,2550763,c# .net system.reactive,0 
+45,818255,bash shell unix redirect,0 
+45,4903879,java,0 
+45,6345927,javascript jquery html css cloud9-ide,0 
+46,13694186,android collections android-appwidget,0 
+46,17070522,testing angularjs karma-runner protractor,0 
+46,16098046,java double,0 
+46,4861023,java generics,0 
+46,1623375,algorithm function math square-root newtons-method,0 
+46,2699902,ruby,0 
+46,9153598,git github,0 
+46,12403283,c# asp.net-mvc asp.net-mvc-3 model-view-controller command,0 
+46,9687593,javascript html firebug,0 
+46,21329224,git push commit squash,0 
+47,10796935,java open-source load-balancing,0 
+47,11415711,spring properties,0 
+47,20205109,php symfony2 nginx debian,0 
+47,2993601,osx intellij-idea java,0 
+47,24000465,scala haskell category-theory,0 
+47,3089706,c# tuples,0 
+47,154314,java final,0 
+47,16718510,entity-framework-5,0 
+47,2814805,java naming-conventions,0 
+47,28492897,python-2.7 google-api-python-client,0 
+47,573039,vim keyboard-shortcuts,0 
+47,23812518,javascript canvas polymer,0 
+47,17076493,osx daemon launchd,0 
+47,7169802,jvm code-generation antlr dsl bytecode,0 
+47,19236783,javascript lua closures variable-scope,0 
+48,11793271,iphone ios ipad ios5 keychain,0 
+48,22247294,javascript coffeescript angular-ui-router,0 
+48,26458767,django rest django-rest-framework nested-resources,0 
+48,22480514,python grep,0 
+48,14142609,git blame,0 
+49,18934811,ios xcode xctest,0 
+49,1555109,android android-listview android-edittext,0 
+49,3359327,tdd bdd specflow,0 
+49,6412813,php token csrf,0 
+49,1105765,haskell fibonacci,0 
+49,15699995,refactoring,0 
+49,5917249,windows git symlink,0 
+49,273743,shell wget,0 
+49,2907335,android android-listview highlighting,0 
+49,9373433,php symfony2 routing annotations,0 
+49,13454287,javascript twitter,0 
+49,3567001,resharper resharper-5.0,0 
+49,28005594,.net performance generics,0 
+49,19119778,matplotlib cartopy,0 
+49,15975988,android facebook,0 
+49,19032869,ios objective-c ios7 uicollectionview,0 
+49,4778560,java architecture jvm dsl dsl-tools,0 
+49,5509543,git push git-push git-non-bare-repository,0 
+49,16162108,django django-forms django-views django-authentication django-allauth,0 
+49,16681952,ios avfoundation barcode zxing barcode-scanner,0 
+49,11819052,design-patterns design java-ee exception-handling,0 
+49,4188620,ruby-on-rails memcached heroku redis,0 
+49,9083759,iphone ios xcode storyboard xib,0 
+49,2726071,java character-encoding character byte,0 
+49,8785109,delphi memory-leaks delphi-2009 fastmm,0 
+49,11854514,angularjs,0 
+49,16718026,android gradle android-studio,0 
+49,15614929,symfony2 config,0 
+49,2135537,javascript,0 
+49,12126496,ios,0 
+49,388461,java string padding,0 
+49,12893426,javascript jquery html css,0 
+49,13612968,delphi delphi-xe2 imap,0 
+49,3836670,objective-c cocoa-touch nsstring,0 
+49,1501853,git jira commit-message,0 
+49,19196495,linux docker lxc,0 
+49,199333,c++ c integer-overflow,0 
+49,4303829,jquery internet-explorer,0 
+49,21254161,java arrays apache-commons-lang,0 
+49,20089632,java list generics collections wildcard,0 
+49,12045027,ios xcode opencv avfoundation core-video,0 
+49,6813438,delphi path components library-path,0 
+49,18760630,session angularjs cookies,0 
+49,8475532,android camera surfaceview,0 
+49,5467174,algorithm random shuffle,0 
+49,19163457,angularjs angularjs-directive,0 
+49,3004696,php,0 
+49,13541948,node.js express,0 
+49,13362636,java generics observer-pattern,0 
+49,15210548,android font-awesome,0 
+49,231767,python iterator generator yield,0 
+49,12289365,java inputstream mark,0 
+49,16541233,copy gruntjs,0 
+49,20915549,java performance stringbuilder,0 
+49,4055430,java text word-wrap line-breaks linewrap,0 
+49,11377260,hadoop mapreduce,0 
+49,7129232,github,0 
+49,13739866,java regex,0 
+49,12154980,qt unit-testing qtestlib qttest,0 
+49,7662,database database-design language-agnostic naming-conventions,0 
+50,22890826,python dictionary nested,0 
+50,20260140,java string jvm ibm-jvm,0 
+50,5906444,java nio,0 
+50,26878570,meteor,0 
+50,10743622,java concurrenthashmap,0 
+50,15790171,java clone deep-copy cloneable,0 
+50,17665283,docker,0 
+50,8733104,objective-c category,0 
+50,963420,ruby-on-rails scaffolding,0 
+50,16789832,c# java oop design,0 
+50,12981021,design-patterns,0 
+50,2526522,php csrf owasp,0 
+50,12560590,android crash stack forceclose,0 
+50,20441705,android image instagram effects,0 
+50,26634554,algorithm go,0 
+51,236047,delphi javadoc sandcastle,0 
+51,7141210,javascript google-chrome node.js defineproperty,0 
+51,9844564,node.js mongodb express jade gridfs,0 
+51,1022560,javascript lua,0 
+51,3337926,vim macros line,0 
+51,25109006,c,0 
+51,2584629,java unit-testing junit,0 
+51,629240,windows winapi sleep,0 
+51,19038799,html css margin padding,0 
+51,573039,vim keyboard-shortcuts,0 
+51,20396515,android textures context shared mediacodec,0 
+51,20059766,python exception,0 
+51,15383315,android avd hosts,0 
+51,13612968,delphi delphi-xe2 imap,0 
+51,10521315,jquery jquery-chosen,0 
+51,507602,java collections map initialization idiomatic,0 
+51,5272290,iphone ios uitabbarcontroller,0 
+51,374464,language-agnostic messages servicebus,0 
+51,2051678,javascript,0 
+51,9826792,objective-c ios javascript-events uiwebview,0 
+52,925698,svn svn-switch migrating,0 
+52,24534072,go,0 
+52,14324451,angularjs angular-services,0 
+52,24864698,javascript ajax,0 
+52,10638826,java reflection,0 
+52,2057752,java design design-patterns automata finite-state-machine,0 
+52,9360826,ios xcode cocoa-touch xcode-storyboard,0 
+52,21209927,python heroku flask,0 
+52,19898967,python flask wtforms flask-wtforms,0 
+52,6127328,git version-control branch-per-feature,0 
+52,14340481,java iterator guava,0 
+52,13388108,node.js,0 
+52,341971,java language-agnostic design-patterns idioms,0 
+52,20952591,forms symfony2 twig,0 
+52,20698613,opencv circle hough-transform,0 
+52,11726672,iphone objective-c ios cocoa-touch ipad,0 
+52,3346333,eclipse-plugin reinstall,0 
+52,3968055,clojure dsl,0 
+52,20097945,java class oop object,0 
+52,23404556,javascript internet-explorer sharepoint,0 
+52,22833691,jquery html jquery-ui-layout,0 
+52,8096313,r package,0 
+52,156322,dvcs fossil,0 
+52,18674533,cocoa long-polling server-sent-events cocoahttpserver,0 
+52,5193842,c# asp.net-mvc asp.net-mvc-3,0 
+52,10298699,java web-services wsdl jax-ws wsimport,0 
+52,12847965,python scrapy,0 
+52,2003505,git github git-branch git-remote,0 
+52,13607194,delphi delphi-xe2 imap,0 
+52,5203799,java oop design-patterns static dynamic-linking,0 
+52,22686586,java java-8,0 
+52,9226538,django django-views,0 
+52,2378402,java json comparison gson jackson,0 
+52,26634554,algorithm go,0 
+52,1697084,android textview,0 
+53,436411,javascript jquery html,0 
+53,6178816,mysql django orm foreign-keys,0 
+53,101474,osx networking command-line io xpc,0 
+53,4212036,haskell cygwin cabal,0 
+53,448919,git github,0 
+54,22076302,polymer,0 
+54,8612405,ios api camera scale preview,0 
+54,415687,java variables,0 
+54,4601139,c# xml string xmltextreader,0 
+54,6042202,javascript javascript-events,0 
+54,6178583,java maven junit junit4 maven-3,0 
+54,20028925,android ios iphone,0 
+54,16098046,java double,0 
+54,20210954,java design-patterns java.util.date,0 
+54,1407893,java io outputstream,0 
+55,13703596,android colors h.264 gstreamer rtp,0 
+55,15347136,java python,0 
+55,18371318,ruby-on-rails ruby twitter-bootstrap-3,0 
+55,22099957,javascript jquery scroll,0 
+55,26103379,python map grid coordinates interpolation,0 
+55,4247932,linux parsing bash,0 
+55,11362298,java concurrency java.util.concurrent,0 
+55,23756966,java performance java-7 java-8 jmh,0 
+55,5875414,java,0 
+55,4942557,oauth,0 
+56,3759440,java guava,0 
+56,10717312,eclipse eclipse-plugin editor eclipse-rcp antlr,0 
+56,3855127,ruby-on-rails osx process,0 
+56,24481113,scala haskell functional-programming type-level-computation,0 
+56,12436497,objective-c ios5 architecture,0 
+56,25088252,ios xcode swift lldb beta,0 
+56,97197,orm select-n-plus-1,0 
+56,14751440,php ant composer-php,0 
+56,49755,design-patterns undo,0 
+56,18824189,angularjs sublimetext2,0 
+56,1771166,spring properties,0 
+56,9620586,javascript function ecmascript-6,0 
+56,23249807,django django-middleware django-messages,0 
+56,24162051,ios objective-c web-services networking ios7,0 
+56,15635023,android ubuntu sdk proxy,0 
+56,261599,javascript function,0 
+56,19250205,mysql ruby architecture docker,0 
+56,12393671,javascript,0 
+56,18384723,cordova,0 
+56,2400901,java parsing dsl,0 
+57,10213009,search solr lucene elasticsearch,0 
+57,9711118,javascript javascript-events,0 
+57,89332,git git-stash,0 
+57,20965037,java oop encapsulation,0 
+57,1697084,android textview,0 
+57,20938520,google-compute-engine,0 
+57,23404556,javascript internet-explorer sharepoint,0 
+57,17470790,angularjs angularjs-directive angular-ui,0 
+57,11077857,php websocket comet long-polling,0 
+57,2030064,java eclipse,0 
+57,4922173,java multithreading,0 
+57,5631078,python sqlalchemy,0 
+57,6851660,ios xcode,0 
+57,2662043,java design-patterns oop model-view-controller strategy-pattern,0 
+57,22686586,java java-8,0 
+57,7846181,android android-emulator,0 
+57,14025833,reflection go slice,0 
+57,17943343,docker,0 
+57,14742262,ios ios6,0 
+57,6870630,java performance,0 
+57,19754085,web akka distributed high-availability failover,0 
+57,18384723,cordova,0 
+57,21724581,linux,0 
+57,724043,java http urlencode,0 
+57,19428050,javascript hex,0 
+57,7545254,android facebook android-intent,0 
+57,3347847,ruby-on-rails debugging,0 
+57,13352205,haskell monads free-monad,0 
+57,4861023,java generics,0 
+57,15852122,android colors hex transparency,0 
+57,18773886,sublimetext2 sublimetext lowercase,0 
+57,3937224,python cgi fastcgi wsgi mod-python,0 
+57,21460491,java serialization,0 
+57,2621610,git merge workflow release cherry-pick,0 
+57,13892907,database memsql,0 
+57,20000777,ios camera,0 
+57,557742,dependency-injection factory-pattern design-patterns,0 
+57,747913,design-patterns oop chain-of-responsibility,0 
+57,19302913,bash zsh,0 
+57,904314,ruby-on-rails ruby,0 
+57,24062509,iphone objective-c core-location cllocationmanager ios8,0 
+57,941338,linux bash shell unix,0 
+57,8694112,iphone ios,0 
+57,2266204,c# asp.net zip stream dotnetzip,0 
+57,13208784,android proguard,0 
+57,1841461,java types unsigned short,0 
+57,2785485,java android uniqueidentifier,0 
+57,2554839,css css-selectors,0 
+57,6332652,algorithm,0 
+57,5152921,mysql sql database windows import,0 
+57,12289365,java inputstream mark,0 
+57,17080146,angularjs error-handling promise q deferred,0 
+57,1711631,c performance sqlite,0 
+57,726894,unix vim editor vi,0 
+57,10220069,java android obfuscation proguard,0 
+57,5601931,git,0 
+57,17118551,jekyll,0 
+57,11555539,java unit-testing junit mockito,0 
+57,34571,java unit-testing junit tdd private,0 
+57,26326958,javascript jquery osx inertia,0 
+57,19987722,javascript json angularjs angularjs-directive,0 
+57,2119480,git git-rebase git-commit git-rewrite-history amend,0 
+57,12532552,haskell functional-programming lambda-calculus hindley-milner denotational-semantics,0 
+57,16801322,python,0 
+57,4604237,scala file-io scala-2.8,0 
+57,244777,javascript json,0 
+57,2220815,unit-testing scala comparison scalatest,0 
+57,14751440,php ant composer-php,0 
+57,3418535,git gitosis,0 
+57,2721533,sql database schema,0 
+57,5181845,git github,0 
+57,6061092,iphone ios video audio avassetwriter,0 
+57,5882032,llvm clang,0 
+57,4915584,iphone itunesconnect,0 
+57,22850879,javascript html5 aptana code-completion,0 
+57,9267899,javascript encoding base64 arraybuffer,0 
+57,1459150,git commit undo amend,0 
+57,28085209,android nfc,0 
+57,20260140,java string jvm ibm-jvm,0 
+57,8570659,session nosql memcached redis cassandra,0 
+57,14834626,ios objective-c unity3d,0 
+57,24134693,visual-studio visual-studio-extensions,0 
+57,6059071,php perl thrift,0 
+57,2856502,css firefox font-face,0 
+57,10809636,mongoid,0 
+57,6109893,html css printing,0 
+57,13612968,delphi delphi-xe2 imap,0 
+57,4335719,svn file commit,0 
+57,236047,delphi javadoc sandcastle,0 
+57,20001427,java java-8,0 
+57,22480514,python grep,0 
+57,17134401,javascript angularjs angularjs-resource,0 
+57,18638743,java,0 
+57,17403464,ruby-on-rails ruby testing rspec,0 
+57,605845,c casting malloc,0 
+57,20324586,java apache-poi powerpoint,0 
+57,5467174,algorithm random shuffle,0 
+57,1819142,android email-validation,0 
+57,20884763,java eclipse file-io,0 
+57,10642241,java generics varargs,0 
+57,15167981,firebase firebase-security,0 
+57,14237674,github,0 
+57,1351567,git branch master,0 
+57,24718393,yaml pandoc,0 
+57,7344203,ios,0 
+57,21225424,android,0 
+57,11681205,backbone.js handlebars.js marionette,0 
+57,6340007,java spring easymock autowired factory-method,0 
+57,19994775,syntax go go-interface,0 
+57,6118905,ruby-on-rails-3 ruby-on-rails-plugins rails-engines ruby-on-rails-3.1,0 
+57,5434891,python,0 
+57,18687526,express go,0 
+57,2531827,makefile,0 
+57,1771166,spring properties,0 
+57,8211668,java web-services jaxb jax-ws wsimport,0 
+57,21235272,android android-intent,0 
+57,20337040,smtp phpmailer dreamhost mediatemple smtp-auth,0 
+57,26274954,ruby-on-rails ruby rspec rails-activejob,0 
+57,20260689,java,0 
+57,1813853,java compilation conditional conditional-compilation,0 
+57,12991935,ios uikit retina-display,0 
+57,2846653,python multithreading sample,0 
+57,17410287,css performance mobile scroll rasterizing,0 
+57,1643733,multithreading uml sequence-diagram,0 
+57,17026904,android barcode qr-code zxing,0 
+57,20664277,ruby-on-rails configuration actionmailer,0 
+57,20675605,java linux multithreading matching,0 
+57,1225909,java io stream inputstream bytearrayoutputstream,0 
+57,12754948,objective-c ios6,0 
+57,18798792,ios objective-c xcode uiviewcontroller ios7,0 
+58,5725430,http post,0 
+58,10586153,arrays bash string-split,0 
+58,14524751,java generics casting,0 
+58,1003241,project-management dsl,0 
+58,17769616,ruby-on-rails git stripe-payments,0 
+59,13102045,java int java.util.scanner,0 
+59,9652032,java logging log4j,0 
+59,15542608,design-patterns exception-handling,0 
+59,25938676,javascript jquery html,0 
+59,17835123,iphone ios ipad ios5 uiinterfaceorientation,0 
+59,24437564,java android eclipse adt,0 
+59,17556955,ember.js,0 
+59,13754851,php cakephp activerecord cakephp-appmodel,0 
+59,17743879,linux shell process child-process,0 
+59,20632512,asynchronous clojure reactive-programming frp core.async,0 
+59,1606797,javascript oop class inheritance constructor,0 
+59,2347384,java database jdbc guice,0 
+59,75175,java generics,0 
+59,13292237,c++ macros c++11 string-literals constexpr,0 
+59,12551341,synchronization operating-system locking conditional mutex,0 
+59,12188381,ruby-on-rails,0 
+59,6800590,java operator-precedence order-of-evaluation,0 
+59,3668506,sql connection-pooling,0 
+59,25977,algorithm language-agnostic image image-processing,0 
+59,19033943,oracle oracle-sqldeveloper,0 
+59,2256040,javascript extends,0 
+59,14651757,spring ehcache spring-el,0 
+59,6106636,android webview,0 
+59,18329040,google-api ime,0 
+59,4933677,java proxy,0 
+60,7126712,java jar javadoc,0 
+60,15874094,iphone objective-c uiimage uiimagepickercontroller,0 
+60,2423284,java multithreading garbage-collection,0 
+60,2338267,iphone apple-push-notifications devicetoken,0 
+60,17330160,python properties decorator python-internals,0 
+60,5697171,java regex unicode,0 
+60,3385576,java jms weblogic websphere-mq oracle-service-bus,0 
+60,4312613,iphone ios4,0 
+60,27371518,networking go,0 
+60,12403283,c# asp.net-mvc asp.net-mvc-3 model-view-controller command,0 
+60,15134090,facebook image debugging image-size,0 
+60,9334624,python mod-wsgi virtualenv flask,0 
+60,6026813,java arrays collections,0 
+60,4667633,hudson continuous-integration hosted bamboo,0 
+60,3949260,java,0 
+60,12991935,ios uikit retina-display,0 
+60,21260072,java string,0 
+60,1127920,java eclipse suppress-warnings generated-code,0 
+60,3668506,sql connection-pooling,0 
+60,28433071,ios css safari,0 
+60,154982,logging log-analysis,0 
+60,16987362,regex vim,0 
+60,2197051,java spring jboss aop use-case,0 
+60,20478577,json go,0 
+60,27387930,haskell recursion,0 
+60,24461460,forms polymer material-design,0 
+60,22505789,r data.table,0 
+60,1990948,scala traits self-type,0 
+60,2256040,javascript extends,0 
+60,7591854,node.js selenium automated-tests capybara,0 
+60,28559036,java generics type-erasure,0 
+60,12916539,php twitter,0 
+60,11508191,android layout alignment,0 
+60,391979,javascript ip-address clientip,0 
+60,5965857,android background android-layout,0 
+60,6416117,c++ c opencv image-processing object-detection,0 
+60,11605704,heroku,0 
+60,21113079,android android-actionbar android-styles,0 
+60,19027378,javascript jquery events binding scroll,0 
+60,6383223,php symfony2 frameworks,0 
+60,14237674,github,0 
+60,20330174,ios iphone camera avcapturesession frame-rate,0 
+60,6591213,git git-branch,0 
+60,6040962,java multithreading concurrency threadpool futuretask,0 
+60,3993930,c# unity3d unityscript boo,0 
+60,4963300,java null annotations intellij-idea nullpointerexception,0 
+60,3609585,python django image matplotlib,0 
+60,20884353,java rmi jmx,0 
+60,10227967,c# .net msbuild continuous-integration jenkins,0 
+60,7440662,iphone ios nsfilemanager nsbundle,0 
+60,1634782,php ip-address,0 
+60,12369704,java eclipse unit-testing tdd ncrunch,0 
+60,20639006,ios iphone objective-c ios7 uinavigationcontroller,0 
+60,3879348,architecture dci,0 
+60,106586,design exception exception-handling error-handling,0 
+60,5047817,android linux command-line android-emulator,0 
+60,19208231,haskell parsec attoparsec,0 
+60,8053832,iphone ios ipad uiinterfaceorientation,0 
+60,3554787,video join ffmpeg video-processing mts,0 
+60,4961355,android layout width relativelayout,0 
+60,2071050,java spring logging aop spring-aop,0 
+60,4130922,python datetime,0 
+60,19943183,ios iphone in-app-purchase storekit,0 
+60,6401543,java design-patterns dao,0 
+60,835352,c++ makefile codeblocks,0 
+60,21209927,python heroku flask,0 
+60,3439316,jquery internet-explorer internet-explorer-8 trim,0 
+60,37011,oop protected,0 
+60,11933173,javascript twitter-bootstrap datepicker bootstrap-datepicker,0 
+60,9027317,java time-format countdowntimer,0 
+60,15777836,python amazon-ec2 scipy remote-access,0 
+60,2432859,java maven-2 jaxb maven maven-plugin,0 
+60,10070440,hibernate java-ee annotations,0 
+60,4303829,jquery internet-explorer,0 
+60,24807592,ruby-on-rails http bad-request,0 
+60,355167,java,0 
+60,869033,java object copy,0 
+60,4112289,html,0 
+60,4764167,java linux top-command,0 
+60,13105884,ruby interface rspec mocking,0 
+60,5205305,git bash shell backup,0 
+60,21202688,java int operators double,0 
+60,12769982,php debugging,0 
+60,5411434,java reflection override superclass,0 
+60,20423947,ios payment braintree,0 
+60,15728474,javascript jquery asp.net-mvc razor twitter-bootstrap,0 
+60,1526794,git git-branch,0 
+60,657447,search vim highlight,0 
+60,6197358,wpf editor ms-word ms-office avalonedit,0 
+60,442026,programming-languages language-design overloading method-overloading function-calls,0 
+60,11278781,android android-intent adb keyguard,0 
+60,7298731,android context,0 
+60,25127673,python unicode encoding utf-8 console,0 
+60,9250759,backbone.js,0 
+60,22025547,javascript unit-testing ember.js,0 
+60,6186537,android,0 
+60,2898897,java javadoc,0 
+60,5906444,java nio,0 
+60,3732109,java http http-server,0 
+60,3611256,git branch github,0 
+60,5679989,delphi ide breakpoints delphi-xe,0 
+60,1087031,openid oauth,0 
+60,897935,java generics junit,0 
+60,1771166,spring properties,0 
+60,395401,java debugging,0 
+60,15450883,objective-c ios6 uicollectionview,0 
+60,7516810,xna motion perlin-noise,0 
+60,21110392,android nfc android-4.4-kitkat apdu hce,0 
+60,6917107,ipad http redirect hosts,0 
+60,2761168,java distributed-computing terracotta,0 
+60,23750399,python anaconda conda,0 
+60,822119,javascript code-formatting minify decompression unminify,0 
+60,24180622,polymer web-component,0 
+60,9652032,java logging log4j,0 
+60,2338035,iphone cocoa-touch ios-simulator configuration-files,0 
+60,12289365,java inputstream mark,0 
+60,4439707,iphone video,0 
+60,24710818,node.js git package yeoman chocolatey,0 
+60,10638087,php algorithm anagram,0 
+60,13678397,python flask cherrypy,0 
+60,3711184,python inspect,0 
+60,1266750,xcode frameworks media-player,0 
+60,21527894,java generics,0 
+60,20915661,java comparable,0 
+60,19071469,python powershell windows-7 virtualenv pycharm,0 
+60,1986896,javascript performance function dynamic,0 
+60,9528845,node.js real-time socket.io,0 
+60,5238932,c++ namespaces,0 
+60,17727788,ruby-on-rails deployment heroku openshift,0 
+60,25088252,ios xcode swift lldb beta,0 
+60,11217239,javascript asp.net-mvc signalr,0 
+60,10869932,http cookies google-apps-script,0 
+60,12319758,javascript angularjs,0 
+60,20236279,java spring unit-testing mockito,0 
+60,20239484,symfony2 twig,0 
+60,10872557,windows performance sockets named-pipes,0 
+60,2020088,android email android-intent javamail,0 
+60,9503329,api google-analytics analytics,0 
+60,1280667,python for-loop nested-loops,0 
+60,936249,git,0 
+60,6203240,android device adb logcat,0 
+60,4236902,android camera rotation compatibility,0 
+60,3461441,css css-transitions css-transforms,0 
+60,18773886,sublimetext2 sublimetext lowercase,0 
+60,25018341,javascript html polymer shadow-dom,0 
+60,3235647,asp.net sql-server audit-trail,0 
+60,11555539,java unit-testing junit mockito,0 
+60,5890118,ruby syntax instance-variables class-variables,0 
+60,2734270,android hyperlink android-textview clickable,0 
+60,1118183,python django debugging,0 
+60,20948361,java,0 
+60,3975499,javascript svg,0 
+60,325443,java uuid,0 
+60,8694112,iphone ios,0 
+60,21290404,ios objective-c cocoa-touch unit-testing,0 
+60,17401971,matlab unit-testing,0 
+60,9316233,objective-c ios storyboard reverse segue,0 
+60,25029743,android apk google-play-services publishing samsung-mobile-sdk,0 
+60,901555,c# design-patterns oop io,0 
+60,2358178,php mod-rewrite apache server-side-includes,0 
+61,20000777,ios camera,0 
+61,8376511,iphone objective-c ios xcode afnetworking,0 
+61,6345927,javascript jquery html css cloud9-ide,0 
+61,17665283,docker,0 
+61,1338728,git,0 
+62,21209927,python heroku flask,0 
+62,5205602,php facebook permissions facebook-php-sdk,0 
+62,9755185,ruby-on-rails ruby-on-rails-3 integration-testing capybara minitest,0 
+62,8216319,git git-submodules,0 
+62,19127697,python cartopy,0 
+62,20797012,java,0 
+62,2220815,unit-testing scala comparison scalatest,0 
+62,436411,javascript jquery html,0 
+62,23439762,android monodroid samsung-mobile android-4.4-kitkat monogame,0 
+62,1054987,algorithm,0 
+62,19290384,javascript twitter-bootstrap accessibility,0 
+62,16999343,android alarmmanager,0 
+62,27788320,c# binary-tree,0 
+62,54886,java eclipse ide,0 
+62,9047949,java eclipse maven dependency-management pom.xml,0 
+62,19343356,ios sdwebimage,0 
+62,26808810,memory time go profiling,0 
+62,23809636,python django django-queryset,0 
+62,1279787,deployment heroku staging,0 
+62,21108295,docker,0 
+63,11942762,android adb,0 
+63,4402934,javascript datetime,0 
+63,22491700,haskell lazy-evaluation ghci,0 
+63,3424904,android android-linearlayout,0 
+63,683041,java priority-queue,0 
+63,1709816,design-patterns poeaa null-object,0 
+63,663958,multicore intel system-calls instruction-set,0 
+63,5205602,php facebook permissions facebook-php-sdk,0 
+63,6092642,java map,0 
+63,947182,java profiling classloader jar,0 
+64,20878456,java,0 
+64,7067191,java performance final,0 
+64,19834611,java java-8,0 
+64,6417758,json jaxb eclipselink jax-rs moxy,0 
+64,9744775,python datetime timestamp,0 
+64,11917042,javascript phantomjs,0 
+64,6851660,ios xcode,0 
+64,10189356,git github markdown,0 
+64,22253366,gridgain,0 
+64,26190204,http go,0 
+64,2604727,android networking tcp debugging adb,0 
+64,6089294,git git-branch,0 
+64,19119186,javascript angularjs,0 
+64,38181,unit-testing language-agnostic mocking,0 
+64,8554813,java inner-classes,0 
+64,26059933,php,0 
+64,10553860,nosql use-case,0 
+64,6289474,python encoding utf-8 character-encoding,0 
+64,202605,javascript string,0 
+64,17137909,python github github-api github3.py,0 
+64,3603657,android junit apk,0 
+64,20713157,java git jenkins continuous-integration bitbucket,0 
+64,27191815,docker boot2docker,0 
+64,12607516,python udp broadcast labview,0 
+64,12808084,iphone ios xcode quartz-graphics drawrect,0 
+64,6468397,python django,0 
+64,20279446,java generics incompatibletypeerror,0 
+64,17371334,ruby-on-rails ruby-on-rails-4,0 
+64,10236000,mysql,0 
+64,4604237,scala file-io scala-2.8,0 
+64,33746,xml xsd,0 
+64,25723828,android storage background-color spannable,0 
+64,1073919,java arrays collections boxing autoboxing,0 
+64,9491314,excel vba excel-vba,0 
+64,3662995,distributed-computing zookeeper,0 
+64,22111060,docker,0 
+64,21498615,build polymer,0 
+64,1440134,java comparator comparable,0 
+64,23404556,javascript internet-explorer sharepoint,0 
+64,22779934,ember.js handlebars.js view-helpers,0 
+64,1673841,java oop design-patterns java-api,0 
+64,11232682,python django django-socialauth,0 
+64,16002366,javascript scope variable-scope,0 
+64,9605109,javascript math artificial-intelligence raphael particles,0 
+64,18778765,ruby-on-rails paymill,0 
+64,203493,sql oracle null empty-string,0 
+64,3662114,svn git version-control git-svn,0 
+64,18987973,javascript node.js express webrtc video-recording,0 
+64,12532552,haskell functional-programming lambda-calculus hindley-milner denotational-semantics,0 
+64,11521721,bash http cookies httpclient,0 
+64,21713974,ruby history naming,0 
+64,24177885,raspberry-pi,0 
+64,6412813,php token csrf,0 
+64,24937133,django translation,0 
+64,8881291,java string security passwords char,0 
+64,21890928,html css twitter-bootstrap-3,0 
+64,1478747,ruby-on-rails ruby localhost webrick,0 
+64,690419,java build build-process versioning,0 
+64,8476975,c++ parsing function reflection binding,0 
+64,2496710,node.js file,0 
+64,6090732,git filesystems,0 
+64,23487499,jquery angularjs http cors angular-resource,0 
+64,13349573,python django,0 
+64,1853676,php symfony1,0 
+64,13699068,razor twitter-bootstrap asp.net-mvc-4 modal-dialog,0 
+64,26791777,angularjs,0 
+64,3724112,php oop method-chaining,0 
+64,21763527,ruby-on-rails asynchronous ruby-on-rails-4 live-streaming server-sent-events,0 
+64,605845,c casting malloc,0 
+64,18904292,c linux operating-system system-calls,0 
+64,19341591,c# multithreading xaml windows-store-apps,0 
+64,14220289,iphone objective-c ios cocoa-touch,0 
+64,782913,database relational bigtable,0 
+64,1574797,ruby-on-rails testing seed,0 
+64,238437,asp.net-mvc authentication authorization,0 
+64,2708033,multithreading erlang green-threads lightweight-processes,0 
+64,20217839,java xml web-services,0 
+64,7174347,git github git-submodules,0 
+64,19855552,github-pages,0 
+64,1385737,java swing scroll jpanel,0 
+64,8174958,java eclipse groovy dsl xtext,0 
+64,2223434,java zip war-files truezip,0 
+64,10476560,javascript prototype-programming,0 
+64,28492897,python-2.7 google-api-python-client,0 
+64,22824546,javascript node.js coffeescript gulp,0 
+64,3021062,mysql mysqldump,0 
+64,19754085,web akka distributed high-availability failover,0 
+64,5686755,java unit-testing junit,0 
+64,676170,java packages,0 
+64,26634554,algorithm go,0 
+64,526469,python nlp nltk,0 
+64,9119999,delphi pipe windows-shell shellexecute,0 
+64,25618873,spring soap cxf spring-boot,0 
+64,160697,java conditional xor,0 
+64,7467313,java serialization effective-java,0 
+64,106591,java keyword volatile,0 
+64,20260140,java string jvm ibm-jvm,0 
+64,19749404,python output xbox vibration,0 
+64,3144910,ldap sasl gssapi,0 
+64,4991533,c linux ipc shared-memory mmap,0 
+64,750486,javascript loops closures,0 
+64,9711118,javascript javascript-events,0 
+64,3757289,sockets networking tcp setsockopt so-linger,0 
+64,3967226,doctrine doctrine2,0 
+64,1294701,binary-tree traversal non-recursive,0 
+64,14463091,jquery jquery-ui animation jquery-animate easing,0 
+64,4590214,c# xml xslt xpath diff,0 
+64,7792280,search elasticsearch,0 
+64,21166679,python matplotlib,0 
+64,12729122,angularjs,0 
+64,15238506,django,0 
+64,3879717,android,0 
+64,1701405,perl oop,0 
+64,5152921,mysql sql database windows import,0 
+64,11415711,spring properties,0 
+64,25973060,jquery git bower,0 
+64,8115713,drag-and-drop raphael rotation,0 
+64,28581029,java selenium-webdriver jmeter rhino jmeter-plugins,0 
+64,15450883,objective-c ios6 uicollectionview,0 
+64,21957844,java spring dependency-injection,0 
+64,22868094,performance amazon-ec2 neo4j disk google-compute-engine,0 
+64,711863,ruby hashmap,0 
+64,1759300,c++ inline,0 
+64,26379182,javascript jquery html css,0 
+64,27158361,javascript design-patterns javascript-module,0 
+64,21485326,node.js mongodb angularjs sails.js mean-stack,0 
+64,14934452,node.js express,0 
+64,17718673,javascript promise,0 
+64,2434534,c# string serialization xml-serialization,0 
+64,28292996,python,0 
+64,12940831,ios webkit nsurlconnection long-polling server-sent-events,0 
+64,20130710,django google-app-engine python-2.7,0 
+64,2068344,php curl youtube youtube-api,0 
+64,17665283,docker,0 
+64,426230,c linux,0 
+64,69849,design-patterns factory,0 
+64,22505789,r data.table,0 
+64,9174282,sql nosql persistence,0 
+64,75175,java generics,0 
+64,2223882,utf-8 character-encoding byte-order-mark,0 
+64,23750399,python anaconda conda,0 
+64,22873,programming-languages,0 
+64,6392406,spring file annotations,0 
+64,747913,design-patterns oop chain-of-responsibility,0 
+64,4130922,python datetime,0 
+64,8343971,android android-layout,0 
+64,1597736,php sorting,0 
+64,6457130,c# java c++ c,0 
+64,14524751,java generics casting,0 
+64,6867283,javascript javascript-events,0 
+64,231767,python iterator generator yield,0 
+64,19426251,ios7 uitabbar uitabbaritem,0 
+64,209840,python dictionary,0 
+64,15700943,linux docker linux-containers,0 
+64,2445100,ruby-on-rails actionmailer,0 
+64,17686115,android,0 
+64,15666048,angularjs dependency-injection angularjs-service angularjs-factory,0 
+64,18601640,docker lxc,0 
+64,20281952,java multithreading concurrency,0 
+64,9687593,javascript html firebug,0 
+64,5181845,git github,0 
+64,17929891,git github,0 
+64,11360703,java,0 
+64,9072175,css,0 
+64,4199429,java clone copy-constructor deep-copy cloneable,0 
+64,14200678,c++ c++11 stdasync,0 
+64,1114024,javascript oop,0 
+64,5631716,javascript,0 
+64,27578,java exception checked-exceptions,0 
+64,24377090,uiscrollview uiscrollviewdelegate,0 
+65,7447472,php git,0 
+65,23381423,javascript node.js,0 
+65,1391381,language-agnostic data-structures,0 
+65,21001387,go,0 
+65,11656117,python django heroku real-time-updates pubnub,0 
+65,26052699,javascript ecmascript-6,0 
+65,6344318,javascript graphviz,0 
+65,4208929,c multithreading process pthreads,0 
+65,21799382,docker,0 
+65,18056583,iphone ios directory nsdocumentdirectory,0 
+65,4672505,jquery select input,0 
+65,1227121,python object,0 
+65,3344341,iphone objective-c cocoa-touch,0 
+65,3539549,c++ c metaprogramming preprocessor,0 
+65,3425932,android,0 
+65,14129662,google-apps-script google-docs-api,0 
+65,20397400,php symfony2 logging monolog,0 
+65,20479904,github subdomain jekyll host,0 
+65,12529083,javascript requirejs angularjs,0 
+65,14072380,java spring ehcache,0 
+65,3987391,java events design-patterns design event-handling,0 
+65,465099,java design-patterns plugins frameworks plugin-architecture,0 
+65,3454063,php oauth oauth-provider,0 
+65,20337040,smtp phpmailer dreamhost mediatemple smtp-auth,0 
+65,14061195,youtube-api,0 
+65,24718393,yaml pandoc,0 
+65,20222445,clojure overtone,0 
+65,19477044,ios7 core-bluetooth bluetooth-lowenergy ibeacon,0 
+65,8029279,java annotations,0 
+65,11383070,java,0 
+65,12409458,objective-c osx cocoa volumes,0 
+65,12403283,c# asp.net-mvc asp.net-mvc-3 model-view-controller command,0 
+65,5666013,c# unit-testing naming-conventions method-overloading,0 
+65,1028649,git tags rename git-tag,0 
+65,10906341,twitter-bootstrap,0 
+65,9001142,php session nosql amazon-dynamodb,0 
+65,6359935,javascript google-visualization,0 
+65,2592501,java date comparison,0 
+65,20265952,java,0 
+65,3855127,ruby-on-rails osx process,0 
+65,22173425,django django-rest-framework,0 
+65,4247932,linux parsing bash,0 
+65,1087031,openid oauth,0 
+65,6803305,javascript jquery jslint jshint,0 
+65,18206023,java service playframework wrapper,0 
+65,16999343,android alarmmanager,0 
+65,3836670,objective-c cocoa-touch nsstring,0 
+65,12676068,arduino wireless,0 
+65,6565357,authentication github git-push git-pull git-clone,0 
+65,8951276,design-patterns asynchronous callback observer-pattern command-pattern,0 
+65,10260015,meteor,0 
+65,1338728,git,0 
+65,2741066,java constructor,0 
+65,1944625,python,0 
+65,3420071,javascript,0 
+65,9226538,django django-views,0 
+65,21329382,performance symfony2 orm doctrine,0 
+65,4493001,java scala asynchronous use-case akka,0 
+65,155436,unit-testing naming-conventions,0 
+65,15690,java oop design architecture,0 
+65,17664573,javascript jasmine gruntjs,0 
+65,26808810,memory time go profiling,0 
+65,22134061,websocket socket.io comparison sockjs engine.io,0 
+65,18952656,android imageview scale,0 
+65,1096650,java junit assert,0 
+65,20450902,spring annotations cdi,0 
+65,12674064,java file-io bufferedimage,0 
+65,6345927,javascript jquery html css cloud9-ide,0 
+65,8939977,git,0 
+65,1178736,mysql memory,0 
+66,5120038,git cherry-pick,0 
+66,26458767,django rest django-rest-framework nested-resources,0 
+66,2068344,php curl youtube youtube-api,0 
+66,17686115,android,0 
+66,12316557,java javascript browser compiler-construction,0 
+66,4662744,delphi inheritance,0 
+66,23812518,javascript canvas polymer,0 
+66,20148,mysql database performance innodb myisam,0 
+66,21843341,jquery ractivejs,0 
+66,13005714,android android-linearlayout roundedcorners-dropshadow,0 
+66,5661671,css html5 css3,0 
+66,15858141,c++ string c++11 metaprogramming user-defined-literals,0 
+66,2720014,python pip,0 
+66,3296260,git branch,0 
+66,24340258,javascript html angularjs polymer web-component,0 
+66,703754,iphone objective-c keyboard uitextview iphone-softkeyboard,0 
+66,5985611,python ssh paramiko attributeerror,0 
+66,14072380,java spring ehcache,0 
+66,8475532,android camera surfaceview,0 
+66,1095663,python django,0 
+66,2188199,bash,0 
+66,5205305,git bash shell backup,0 
+66,6524709,django api view,0 
+66,1518286,python django url dry,0 
+66,23760275,ios objective-c uicollectionview uicollectionviewcell uicollectionviewlayout,0 
+67,10392163,android html android-layout formatting textview,0 
+67,18924589,ios objective-c uitableview ios7,0 
+67,11535617,amazon-web-services amazon-ec2 amazon-ebs,0 
+67,21523481,php git symfony2 bundle,0 
+67,25837722,ios xcode provisioning-profile ios-app-extension,0 
+67,21329382,performance symfony2 orm doctrine,0 
+67,5651853,iphone objective-c cocoa nsstring,0 
+67,18823530,javascript debugging google-chrome-devtools,0 
+67,25109006,c,0 
+67,15614929,symfony2 config,0 
+67,16047306,virtual-machine virtualization docker,0 
+67,106586,design exception exception-handling error-handling,0 
+67,2338267,iphone apple-push-notifications devicetoken,0 
+67,18274088,docker,0 
+67,24045307,xcode ios7 xcode6,0 
+67,2440620,iphone,0 
+67,9589727,mysql entity-relationship mysql-workbench,0 
+67,4783063,java authentication forms-authentication spring-security,0 
+67,14261903,matplotlib ipython-notebook,0 
+67,1054987,algorithm,0 
+67,1335851,javascript syntax jslint use-strict,0 
+67,20218337,java generics constructor,0 
+67,23205110,polymer,0 
+67,5060302,delphi opengl sprite,0 
+67,9303604,java rounding,0 
+67,4909578,javascript namespaces global-variables,0 
+67,11305129,javascript android jquery html5 cordova,0 
+67,20330174,ios iphone camera avcapturesession frame-rate,0 
+67,20110710,google-bigquery github-archive,0 
+67,15681618,delphi delphi-xe2 vcl,0 
+67,26646944,java string localization string-comparison,0 
+67,20549165,java,0 
+67,5958417,javascript function object,0 
+67,26247926,ruby git rvm jekyll,0 
+67,17070522,testing angularjs karma-runner protractor,0 
+68,10847852,backbone.js javascript-framework,0 
+68,18542353,angularjs,0 
+68,10334306,apache jboss comparison soa wso2,0 
+68,1082850,java reflection interface,0 
+68,2644638,jquery plugins methods override,0 
+68,8136192,c osx dlopen dlsym,0 
+68,5103384,java ant,0 
+68,20323569,internet-explorer windows-7 cmd,0 
+68,12917456,json format,0 
+68,21799180,ios objective-c automatic-ref-counting,0 
+68,33923,algorithm language-agnostic functional-programming recursion tail-recursion,0 
+68,16418571,java encapsulation,0 
+68,9605109,javascript math artificial-intelligence raphael particles,0 
+68,21019348,java cryptography diffie-hellman,0 
+68,3785706,spring-security,0 
+68,9528845,node.js real-time socket.io,0 
+68,7881883,web-services soap wsdl jaxb,0 
+68,14460656,android linux eclipse debugging htc,0 
+68,3662995,distributed-computing zookeeper,0 
+68,21260072,java string,0 
+68,14144664,http-status-codes rfc http-status-code-308,0 
+68,9999433,symfony2 architecture bundle,0 
+68,2427883,java clone copy-constructor,0 
+68,24489265,osx proxy docker boot2docker,0 
+68,22789515,ios opencv detection,0 
+68,19841510,ruby-on-rails ruby ruby-on-rails-3 rspec minitest,0 
+68,14534767,java stringbuilder,0 
+68,5785104,ruby-on-rails deployment capistrano,0 
+68,20012495,css html margin center,0 
+68,6127328,git version-control branch-per-feature,0 
+69,21285825,php json rest symfony2 csrf,0 
+69,26708998,ios objective-c iphone ios8 uiimagepickercontroller,0 
+69,9613565,xcode xcode4.2 osx-snow-leopard ios5.1,0 
+69,20938520,google-compute-engine,0 
+69,12145390,c# asp.net-mvc-4 asp.net-web-api,0 
+69,5152921,mysql sql database windows import,0 
+69,20466132,java clojure leiningen,0 
+69,28645415,php facebook facebook-graph-api facebook-php-sdk,0 
+69,18834309,javascript,0 
+69,3789886,java eclipse validation jsp,0 
+69,19488746,java class field instantiation order-of-operations,0 
+69,2012383,ruby-on-rails rubygems,0 
+69,762336,ruby rack,0 
+69,27881263,ruby ubuntu,0 
+69,16999343,android alarmmanager,0 
+69,7496391,java connection-pooling apache-commons-dbcp,0 
+69,7926864,java fork-join,0 
+69,26699985,c++ c struct,0 
+69,13334733,android android-fragments android-viewpager fragmentpageradapter android-nested-fragment,0 
+69,6645567,c linux multithreading ubuntu-10.04,0 
+69,18039003,python django rest django-rest-framework,0 
+69,20123192,hibernate jaxb moxy,0 
+69,12715254,javascript jquery twitter-bootstrap prototypejs,0 
+69,16130303,apache google-maps,0 
+69,23333287,ios objective-c osx llvm-clang,0 
+69,17665283,docker,0 
+69,1701113,java testing junit junit4 hamcrest,0 
+69,1568091,oop setter getter abstraction,0 
+69,238980,iphone ios xcode,0 
+69,4114095,git git-reset git-revert,0 
+69,19075130,editor demo asciidoc live-preview,0 
+69,4633543,android transition flags,0 
+69,12254076,git,0 
+69,3264889,php twig,0 
+69,1384325,git branch,0 
+70,824327,windows ssh editor remote-access,0 
+70,8417034,android,0 
+70,17157721,docker,0 
+70,24273932,d3.js processing visualization vector-graphics,0 
+70,17978990,javascript angularjs routes angularjs-directive angularjs-routing,0 
+70,5181845,git github,0 
+70,20323397,arrays json.net deserialization strong-typing,0 
+70,3173070,design-patterns architecture domain-driven-design use-case,0 
+70,11413421,iphone ios gps augmented-reality,0 
+70,12598955,ios cocoa-touch push-notification,0 
+70,1155578,c linux arrays unix,0 
+70,2130199,java rule-engine,0 
+70,10218895,java events observer-pattern observable,0 
+70,7580542,git,0 
+70,19530763,android image android-canvas bitmapimage picasso,0 
+70,18638743,java,0 
+70,1552340,git git-diff,0 
+70,20186980,java c algorithm scala logic,0 
+70,2470870,android,0 
+70,24572771,jersey jax-rs jersey-2.0,0 
+70,2934161,php magento,0 
+70,6210105,compiler-construction coffeescript interpreter bootstrapping,0 
+70,6889830,git,0 
+70,1712227,python list,0 
+70,5889696,haskell types type-systems newtype,0 
+70,203493,sql oracle null empty-string,0 
+70,7067578,java,0 
+70,17223237,gruntjs,0 
+70,11172207,iphone ios core-graphics uifont cgpath,0 
+70,630453,http rest post put,0 
+70,4711943,java apache-commons apache-commons-dbcp,0 
+70,9316612,javascript jquery tilde,0 
+70,307291,algorithm machine-learning nlp spell-checking text-search,0 
+70,20090341,java windows tomcat configuration intellij-idea,0 
+70,21013619,java automation equals apache-commons hashcode,0 
+70,20796432,java,0 
+70,13368100,python exception,0 
+70,655891,java utf-8 iso-8859-1,0 
+70,4199879,ios4 avfoundation,0 
+70,188311,java unit-testing oop,0 
+70,16784996,php symfony2 fosrestbundle jmsserializerbundle,0 
+70,243274,unit-testing testing abstract-class,0 
+70,21830810,git,0 
+70,14463091,jquery jquery-ui animation jquery-animate easing,0 
+70,3757289,sockets networking tcp setsockopt so-linger,0 
+70,4942557,oauth,0 
+70,14307517,ruby oauth sinatra oauth-2.0 soundcloud,0 
+70,11893134,oracle11g,0 
+70,22316720,android facebook facebook-login facebook-requests facebook-sdk-3.1,0 
+70,123999,html firefox dom,0 
+70,4599857,javascript function optimization eval,0 
+70,13005646,delphi delphi-xe3,0 
+70,3836670,objective-c cocoa-touch nsstring,0 
+70,23696897,xml web-services asp.net-web-api java-me kxml2,0 
+70,8169114,logging symfony2 monolog,0 
+70,19400806,ios objective-c nsfilemanager data-protection,0 
+70,19236783,javascript lua closures variable-scope,0 
+70,12964862,delphi debugging dll,0 
+70,24371111,spring spring-boot spring-loaded,0 
+70,14129662,google-apps-script google-docs-api,0 
+70,16509142,ios video ios6 avplayer,0 
+70,25385934,environment-variables osx-yosemite,0 
+70,3295496,java javabeans serializable,0 
+70,21188105,android,0 
+70,195149,javascript browser sandbox,0 
+70,5520499,android,0 
+70,17646034,angularjs,0 
+70,11927542,sockets unix cat,0 
+70,20842104,symfony2 oauth-2.0 fosuserbundle varnish fosoauthserverbundle,0 
+70,739654,python decorator python-decorators,0 
+71,14263839,ruby-on-rails ruby minitest,0 
+71,3407403,string immutability,0 
+71,1841461,java types unsigned short,0 
+71,20347074,java jvm classloader,0 
+71,13262392,javascript state-machines,0 
+72,2351315,php mysql security sql-injection,0 
+72,6265502,git version-control github,0 
+72,18824189,angularjs sublimetext2,0 
+72,2020088,android email android-intent javamail,0 
+72,826782,css cross-browser highlighting textselection,0 
+73,1535631,javascript variables static,0 
+73,2621610,git merge workflow release cherry-pick,0 
+73,1739675,algorithm data-structures haskell list queue,0 
+73,9687521,javascript date,0 
+73,9042020,php api authentication rest cakephp-2.0,0 
+73,11757487,java jackson,0 
+73,1990948,scala traits self-type,0 
+73,21258160,java generics type-inference,0 
+73,10589104,node.js twitter-bootstrap,0 
+73,15831685,javascript jquery google-chrome,0 
+74,20907772,java design-patterns,0 
+74,22779934,ember.js handlebars.js view-helpers,0 
+74,3372673,bash,0 
+74,4601139,c# xml string xmltextreader,0 
+74,16426774,javascript sorting underscore.js,0 
+74,9478753,c linux design-patterns embedded pthreads,0 
+74,2598942,android android-emulator qemu,0 
+74,18760281,scroll tmux,0 
+74,20330327,java generics map deep-copy,0 
+74,4884369,jquery jquery-plugins,0 
+74,442564,java synchronization,0 
+74,14389049,angularjs socket.io,0 
+74,3464268,javascript jquery-ui,0 
+74,1727881,c++ trigonometry,0 
+74,605845,c casting malloc,0 
+74,10593647,java design-patterns jdbc dao multiple-databases,0 
+74,8435343,git,0 
+74,19834842,android android-intent android-gallery android-contentresolver,0 
+74,2749416,php,0 
+74,762336,ruby rack,0 
+74,1685228,java git jgit,0 
+74,19977002,java jaxb2 jersey-2.0,0 
+74,10236000,mysql,0 
+74,5614274,python django twisted comet gevent,0 
+74,12535798,java android naming-conventions package conventions,0 
+74,1941738,java design-patterns,0 
+74,11318492,delphi layout ms-word ole,0 
+74,18674533,cocoa long-polling server-sent-events cocoahttpserver,0 
+74,4487948,ruby-on-rails-3 bundler,0 
+74,22039319,linux,0 
+74,3919977,javascript ide debugging node.js v8,0 
+74,11034941,debugging meteor server-side,0 
+74,14107441,iphone ios,0 
+74,1221833,linux bash shell redirect tee,0 
+74,23545702,php .htaccess symfony2 post production-environment,0 
+74,6099040,java entity javabeans,0 
+74,7864371,ios xcode uitableview mapkit storyboard,0 
+74,6872181,c oracle solaris gssapi,0 
+74,3166501,android,0 
+74,20148,mysql database performance innodb myisam,0 
+74,3694575,mysql phpmyadmin,0 
+74,20186980,java c algorithm scala logic,0 
+74,8439127,ios enterprise ota,0 
+74,20130710,django google-app-engine python-2.7,0 
+74,1772179,javascript jquery special-characters keycode,0 
+74,27387930,haskell recursion,0 
+74,19975326,google-plus,0 
+74,21502335,haskell ghc,0 
+74,11905630,java object inheritance clone instance,0 
+74,20563972,php rpc storm,0 
+75,10638826,java reflection,0 
+75,3937224,python cgi fastcgi wsgi mod-python,0 
+75,21066598,android android-studio,0 
+75,3975499,javascript svg,0 
+75,17159567,python django django-forms,0 
+75,21348611,javascript html css firefox google-chrome-devtools,0 
+75,7926864,java fork-join,0 
+75,14788345,java ubuntu,0 
+75,21104259,ruby-on-rails-4 gem nomethoderror,0 
+75,2003505,git github git-branch git-remote,0 
+75,24461460,forms polymer material-design,0 
+75,5103384,java ant,0 
+75,4303829,jquery internet-explorer,0 
+75,5686755,java unit-testing junit,0 
+75,4982831,emacs gnus,0 
+75,19071137,ruby-on-rails ruby routes ruby-on-rails-4,0 
+75,343669,java jaxb boolean,0 
+75,8978080,apache .htaccess authorization,0 
+75,11305129,javascript android jquery html5 cordova,0 
+75,17835123,iphone ios ipad ios5 uiinterfaceorientation,0 
+75,5878529,ruby hash variable-assignment autovivification hash-of-hashes,0 
+75,20025582,javascript angularjs coffeescript,0 
+75,2423284,java multithreading garbage-collection,0 
+75,4938517,java mysql jdbc connection-pooling,0 
+75,1272357,linux gcc 64bit cmake 32-bit,0 
+76,3162667,android 3d opengl-es mesh,0 
+76,9334624,python mod-wsgi virtualenv flask,0 
+76,16909238,virtual-machine openstack docker lxc,0 
+76,8224035,ios xcode,0 
+76,70161,algorithm language-agnostic parsing numbers nlp,0 
+76,21375659,java string immutability,0 
+76,22537311,javascript angularjs angular-ui-router,0 
+76,5205602,php facebook permissions facebook-php-sdk,0 
+76,219110,python apache cgi wsgi,0 
+76,176409,c http-server,0 
+76,20130710,django google-app-engine python-2.7,0 
+76,12991535,android user-interface tablet statusbar,0 
+76,21358449,ios objective-c afnetworking-2,0 
+76,1657017,git rebase git-rebase squash git-rewrite-history,0 
+76,2603134,dsl eclipse-emf xtext mps,0 
+76,3395236,python sql django sqlite,0 
+76,13454287,javascript twitter,0 
+76,3541762,django,0 
+76,21856173,symfony2 doctrine2 many-to-many entities,0 
+76,1073919,java arrays collections boxing autoboxing,0 
+76,7641624,objective-c nsstring,0 
+76,19957280,angularjs,0 
+76,5210840,java byte bytearray buffer,0 
+76,18770517,javascript jquery ruby-on-rails-4 asset-pipeline turbolinks,0 
+76,190296,.net sql-server database-design oop,0 
+76,16826943,clojure,0 
+76,14567290,api twitter data filter,0 
+76,8549751,android listview checkbox,0 
+76,9249832,oop design-patterns solid-principles,0 
+76,10012944,android,0 
+76,918449,ruby operators splat,0 
+76,18696360,java active-directory,0 
+76,20917989,java parsing abstract-syntax-tree visitor,0 
+76,6541109,bash redirect stdin io-redirection,0 
+76,9744775,python datetime timestamp,0 
+77,11795106,delphi delphi-xe2 read-eval-print-loop,0 
+77,4100260,python ruby-on-rails ruby fabric,0 
+77,7404116,python matplotlib,0 
+77,20083224,ios clang,0 
+77,19717902,android bluetooth-lowenergy android-4.4-kitkat,0 
+77,10322283,ruby timeout faraday,0 
+77,16502143,cassandra nodetool,0 
+77,20842104,symfony2 oauth-2.0 fosuserbundle varnish fosoauthserverbundle,0 
+77,26059933,php,0 
+77,9745197,ruby-on-rails-3 paypal activemerchant,0 
+77,24839612,ajax components polymer,0 
+77,5103384,java ant,0 
+77,4616694,javascript javascript-events,0 
+77,14298972,java,0 
+77,4551175,ajax jquery,0 
+77,11063749,oauth-2.0 google-apps-script google-sites,0 
+77,783811,git proxy,0 
+77,19882556,javascript node.js express,0 
+77,1953530,java inner-classes static-members,0 
+77,21628478,javascript node.js angularjs sails.js mean-stack,0 
+77,504103,java jvm benchmarking jvm-hotspot microbenchmark,0 
+77,1851174,mysql portability,0 
+77,12153708,java oop design-patterns transactions,0 
+77,4778560,java architecture jvm dsl dsl-tools,0 
+77,6851660,ios xcode,0 
+77,18623351,javascript android cordova,0 
+77,21598339,node.js mongodb sails.js,0 
+77,4656992,java xml enums xml-serialization jaxb,0 
+77,2474654,php vim editor,0 
+77,26791777,angularjs,0 
+77,21720557,android nfc nfc-p2p hce,0 
+77,8845186,java apache-camel,0 
+77,21155397,docker coreos,0 
+77,11619680,oop design-patterns observer-pattern,0 
+77,49478,xcode git osx version-control gitignore,0 
+77,9896406,objective-c xcode storyboard xib,0 
+77,25206567,javascript csv d3.js functional-programming,0 
+77,98878,oop ooad crc-cards,0 
+77,855332,java generics methods design-patterns factory,0 
+77,19745773,java ftp apache-camel load-balancing failover,0 
+77,12159,multithreading unit-testing,0 
+77,21001387,go,0 
+77,2636201,java eclipse project,0 
+77,374464,language-agnostic messages servicebus,0 
+77,5026328,project-management agile scrum agile-project-management,0 
+77,19617764,php symfony2 doctrine2,0 
+77,21929290,php symfony2 orm propel,0 
+77,19333578,git github,0 
+77,190296,.net sql-server database-design oop,0 
+77,449763,android android-source,0 
+77,2071050,java spring logging aop spring-aop,0 
+77,11278781,android android-intent adb keyguard,0 
+77,2149762,javascript,0 
+77,16186089,eclipse ide,0 
+77,134492,java serialization,0 
+77,27371518,networking go,0 
+77,3795477,emacs elisp,0 
+77,18658612,node.js hash stream,0 
+77,23731517,html5 node-webkit brackets-shell atom-shell,0 
+77,1035949,java jms message-queue,0 
+77,5778072,python image webpage-screenshot,0 
+77,20265185,java multithreading performance random thread-local,0 
+77,13528898,objective-c ios core-graphics quartz-2d,0 
+77,20796527,java classloader,0 
+77,18952656,android imageview scale,0 
+77,1629775,android opengl-es 3d,0 
+77,10553860,nosql use-case,0 
+77,14632260,angularjs angularjs-directive,0 
+77,151677,language-agnostic header source,0 
+77,18225126,git unity3d,0 
+77,837828,django slug,0 
+77,8411371,llvm,0 
+77,21713974,ruby history naming,0 
+77,20969996,ios sqlite core-data sqlite3,0 
+77,21236605,php forms symfony2 translation formbuilder,0 
+78,21347670,java performance serialization gson,0 
+78,8327846,android canvas bitmap resize surfaceview,0 
+78,15006315,android android-fragments master-detail activity-finish,0 
+78,27115149,jquery angularjs angularjs-directive jasmine magnific-popup,0 
+78,19378922,xcode osx xctest,0 
+78,12352049,git git-diff git-config,0 
+78,12553160,php geolocation ip country-codes,0 
+78,18770581,oracle,0 
+78,16727836,android android-camera,0 
+78,3768554,java multithreading concurrency thread-safety concurrenthashmap,0 
+78,10853050,r interop operating-system,0 
+78,8865458,html css,0 
+78,25491212,database virtualization docker,0 
+78,24811051,templates polymer,0 
+78,5079172,java multithreading tcp serversocket,0 
+79,4871343,javascript,0 
+79,3823799,android bitmap,0 
+79,4015417,python class object inheritance,0 
+79,1492852,iphone cocoa-touch uiviewcontroller uinavigationcontroller uitableview,0 
+79,3662995,distributed-computing zookeeper,0 
+79,20948557,android google-maps navigation-drawer mapfragment,0 
+79,4956844,java,0 
+79,6872898,haskell definition strictness weak-head-normal-form,0 
+79,5601931,git,0 
+79,20127349,java,0 
+81,4365621,jndi,0 
+81,20611291,symfony2 captcha,0 
+81,16617638,android eclipse-plugin eclipse-adt android-studio,0 
+81,4113934,web-services api authentication oauth authorization,0 
+81,1529068,android styles textview,0 
+81,23795779,polymer,0 
+81,16801396,emacs lisp elisp,0 
+81,4060333,ruby-on-rails session cookies subdomain,0 
+81,11081414,android service android-activity notifications,0 
+81,4292161,c windows compiler-construction make,0 
+81,10859257,javascript jquery svg raphael,0 
+81,98878,oop ooad crc-cards,0 
+81,18239405,php json apache ubuntu,0 
+81,8481488,git version-control case-sensitive,0 
+81,1431681,java arraylist,0 
+82,8476975,c++ parsing function reflection binding,0 
+82,21141817,javascript jquery callback promise,0 
+82,24710818,node.js git package yeoman chocolatey,0 
+82,465099,java design-patterns plugins frameworks plugin-architecture,0 
+82,7736690,jquery animation svg zoom raphael,0 
+82,20568048,docker,0 
+82,18463311,java dependency-injection jersey jax-rs,0 
+82,18206023,java service playframework wrapper,0 
+82,5315513,ruby-on-rails plugins captcha spam flooding,0 
+82,3459287,testing mocking stub,0 
+82,15343385,jquery html5 jquery-mobile drag-and-drop draggable,0 
+82,12257110,visual-studio-2012 windows-8 visual-studio-2013 uac windows-8.1,0 
+82,20880231,java garbage-collection jvm,0 
+82,2856502,css firefox font-face,0 
+82,20876780,google-app-engine google-cloud-storage,0 
+82,817801,java time jvm,0 
+82,3021062,mysql mysqldump,0 
+82,1335851,javascript syntax jslint use-strict,0 
+82,9419606,spring spring-mvc,0 
+82,17889502,delphi delphi-xe3,0 
+82,8875038,go stdout command-line-interface,0 
+82,1028649,git tags rename git-tag,0 
+82,20809998,haskell ghc dependent-type,0 
+82,19168423,objective-c documentation comments doxygen xcode5,0 
+82,7860301,ruby-on-rails design-patterns decorator presenter,0 
+82,2721533,sql database schema,0 
+82,151677,language-agnostic header source,0 
+82,1574797,ruby-on-rails testing seed,0 
+82,9785777,jmeter assertion,0 
+82,8617363,python unix,0 
+82,657447,search vim highlight,0 
+82,2013547,bash shell,0 
+82,219585,java command-line classpath,0 
+82,19106111,ruby-on-rails google-chrome ruby-on-rails-4,0 
+82,14011825,java object enums,0 
+82,16457370,java ruby oop pass-by-reference pass-by-value,0 
+82,7557364,windows node.js exe,0 
+82,19468695,java parsing autocomplete antlr antlr3,0 
+82,20897600,java string,0 
+82,13147026,javascript safari jit safari6,0 
+83,17481341,android,0 
+83,23074757,symfony2 netbeans annotations warnings fosrestbundle,0 
+83,3662995,distributed-computing zookeeper,0 
+83,2303713,javascript json dom serialization circular-reference,0 
+83,97984,php database security,0 
+83,25127673,python unicode encoding utf-8 console,0 
+83,129178,java arrays,0 
+83,20318081,asp.net windows delegates kerberos windows-integrated-auth,0 
+83,4641053,session node.js express,0 
+83,12320357,spring-security single-sign-on pre-authentication,0 
+84,19203877,algorithm database-design,0 
+84,1941738,java design-patterns,0 
+84,2905542,android icons badge,0 
+84,11905630,java object inheritance clone instance,0 
+84,1028858,java eclipse templates ide code-generation,0 
+84,19163457,angularjs angularjs-directive,0 
+84,13528898,objective-c ios core-graphics quartz-2d,0 
+84,21527894,java generics,0 
+84,3121979,python list sorting tuples,0 
+84,15450883,objective-c ios6 uicollectionview,0 
+85,22833691,jquery html jquery-ui-layout,0 
+85,25011061,java enums,0 
+85,5697171,java regex unicode,0 
+85,7239117,nosql amazon-simpledb,0 
+85,19383308,java,0 
+85,14503698,jquery asp.net-mvc-3 jquery-validate unobtrusive-validation,0 
+85,15542608,design-patterns exception-handling,0 
+85,19256953,android mediacodec,0 
+85,15134090,facebook image debugging image-size,0 
+85,10291949,java inheritance static,0 
+85,20498317,python django angularjs authentication django-rest-framework,0 
+85,2800964,javascript oop inheritance language-design prototype-programming,0 
+85,5920136,mysql mysql-error-1064,0 
+85,5601931,git,0 
+85,2149762,javascript,0 
+85,6417758,json jaxb eclipselink jax-rs moxy,0 
+85,11436013,c linux sockets glibc,0 
+85,11933173,javascript twitter-bootstrap datepicker bootstrap-datepicker,0 
+85,14263839,ruby-on-rails ruby minitest,0 
+85,11875770,python json,0 
+85,24000465,scala haskell category-theory,0 
+85,28005594,.net performance generics,0 
+85,13904261,java try-with-resources,0 
+85,13887310,git github githooks pivotaltracker,0 
+85,13545433,javascript html5 autocomplete syntax-highlighting ace-editor,0 
+85,9034091,python web-services celery django-celery,0 
+85,19987722,javascript json angularjs angularjs-directive,0 
+85,479591,svg,0 
+85,12775621,ruby-on-rails ruby-on-rails-3 twitter-bootstrap twitter-bootstrap-rails bootswatch,0 
+85,16186089,eclipse ide,0 
+86,3893084,java,0 
+86,21844361,android android-alarms,0 
+86,26379182,javascript jquery html css,0 
+86,25284859,matplotlib pandas seaborn,0 
+86,5631078,python sqlalchemy,0 
+87,6412813,php token csrf,0 
+87,11753000,android google-play,0 
+87,11077857,php websocket comet long-polling,0 
+87,21928203,jquery zurb-foundation zurb-joyride,0 
+87,14503698,jquery asp.net-mvc-3 jquery-validate unobtrusive-validation,0 
+87,22134061,websocket socket.io comparison sockjs engine.io,0 
+87,14760777,javascript model-view-controller angularjs,0 
+87,371898,model-view-controller language-agnostic differential-execution,0 
+87,20110710,google-bigquery github-archive,0 
+87,6800590,java operator-precedence order-of-evaluation,0 
+87,10717312,eclipse eclipse-plugin editor eclipse-rcp antlr,0 
+87,12296299,c# .net design-patterns,0 
+87,21254161,java arrays apache-commons-lang,0 
+87,4522967,javascript css raphael,0 
+87,1316852,java caching persistence memcached distributed,0 
+87,21416561,haskell monads,0 
+87,1722726,scala scala-2.8 scala-collections,0 
+87,771983,java design-patterns,0 
+87,16554580,javascript angularjs restangular ngresource,0 
+87,23023650,javascript node.js gulp,0 
+87,4726370,java caching hadoop ehcache berkeley-db,0 
+87,12893426,javascript jquery html css,0 
+87,10392163,android html android-layout formatting textview,0 
+87,19483397,flash video-streaming video-processing webrtc mashup,0 
+87,19898967,python flask wtforms flask-wtforms,0 
+87,4055430,java text word-wrap line-breaks linewrap,0 
+87,23835898,javascript node.js npm gulp browserify,0 
+87,6372017,delphi optimization delphi-xe,0 
+87,5393028,php arrays,0 
+87,12676068,arduino wireless,0 
+88,1907318,java boolean,0 
+88,7736690,jquery animation svg zoom raphael,0 
+88,20000777,ios camera,0 
+88,3617708,c# extension-methods abstract-class,0 
+88,5646202,arrays delphi shared-memory,0 
+88,156322,dvcs fossil,0 
+88,16994242,google-compute-engine google-cloud-console,0 
+88,28201525,javascript jquery html angularjs twitter-bootstrap,0 
+88,20139651,multithreading process context-switch,0 
+88,13652188,objective-c ios core-animation,0 
+89,4767944,database tree nosql hierarchical-data,0 
+89,2691772,android default preferences,0 
+89,15347136,java python,0 
+89,14200678,c++ c++11 stdasync,0 
+89,154982,logging log-analysis,0 
+89,2057752,java design design-patterns automata finite-state-machine,0 
+89,3588327,iphone core-data,0 
+89,20540053,git git-tag,0 
+89,3821188,php security,0 
+89,20611291,symfony2 captcha,0 
+89,7455046,r graphics transparency ggplot2,0 
+89,2507898,android android-image android-gallery,0 
+89,18760630,session angularjs cookies,0 
+89,20266536,java design-patterns,0 
+89,3122422,java fileinputstream bufferedinputstream,0 
+90,4028734,iphone uibutton touch-event,0 
+90,10635238,powershell winrm,0 
+90,1272357,linux gcc 64bit cmake 32-bit,0 
+90,20688844,ssh centos centos6 sshd,0 
+90,23644193,ios cocoa nsdata nsurl,0 
+91,8173938,java performance collections guava,0 
+91,3711184,python inspect,0 
+91,17102078,iphone objective-c camera video-recording,0 
+91,800123,ios objective-c cocoa-touch email-validation,0 
+91,11304895,shell command-line copy scp,0 
+92,14503698,jquery asp.net-mvc-3 jquery-validate unobtrusive-validation,0 
+92,7720929,haskell space-leak writer-monad,0 
+92,2303955,javascript osx firefox prototypejs keycode,0 
+92,10580159,java sieve-of-atkin,0 
+92,176409,c http-server,0 
+92,14524751,java generics casting,0 
+92,12369704,java eclipse unit-testing tdd ncrunch,0 
+92,19882556,javascript node.js express,0 
+92,5610129,c# .net regex newline whitespace,0 
+92,2856502,css firefox font-face,0 
+92,9303604,java rounding,0 
+92,15963783,android proguard,0 
+92,5451597,compression imaging pagespeed google-pagespeed,0 
+92,14195067,android push-notification android-gcm,0 
+92,1966503,web-api imdb,0 
+92,3662114,svn git version-control git-svn,0 
+92,9334624,python mod-wsgi virtualenv flask,0 
+92,3404912,django django-admin django-templates escaping,0 
+92,17401971,matlab unit-testing,0 
+92,17405702,mysql database-design,0 
+92,19104847,image repository docker,0 
+92,14324451,angularjs angular-services,0 
+92,130794,design-patterns language-agnostic dependency-injection terminology,0 
+92,160697,java conditional xor,0 
+92,6806584,javascript internet-explorer javascript-events,0 
+92,10684244,java connection-pooling apache-commons-dbcp,0 
+92,788787,java jls,0 
+92,4490140,memcached varnish,0 
+92,3639596,eclipse editor text-editor,0 
+92,8504446,javascript mongodb node.js mongoose,0 
+92,3928275,ruby-on-rails datetime date time timestamp,0 
+92,9392744,iphone ios objective-c ios5 storyboard,0 
+92,4904096,testing,0 
+92,18970313,objective-c xcode compiler-optimization precompiled-headers llvm-clang,0 
+92,18542353,angularjs,0 
+92,6815039,c++ streaming client-server boost-asio,0 
+92,17481341,android,0 
+92,4646147,php jquery facebook javascript-library,0 
+92,20952591,forms symfony2 twig,0 
+92,6332652,algorithm,0 
+92,17110710,javascript html5,0 
+92,714877,windows powershell,0 
+92,14751440,php ant composer-php,0 
+92,6933347,disruptor-pattern,0 
+92,19717902,android bluetooth-lowenergy android-4.4-kitkat,0 
+92,21402384,python numpy split pandas time-series,0 
+92,3746947,bash wc,0 
+92,5201689,ruby-on-rails-3 rubygems imagemagick rvm rmagick,0 
+92,17871614,iphone ios xcode storyboard,0 
+92,10859257,javascript jquery svg raphael,0 
+92,343669,java jaxb boolean,0 
+92,2701640,version-control continuous-integration hudson,0 
+92,2020088,android email android-intent javamail,0 
+92,1518286,python django url dry,0 
+92,6340007,java spring easymock autowired factory-method,0 
+92,26543787,mule docker,0 
+92,7362024,google-chrome chromium,0 
+92,1626597,c# .net function return-value,0 
+92,4713088,git blame git-bisect,0 
+92,1191464,html css background,0 
+92,14076296,java annotations,0 
+92,10813663,rspec rspec2 activeadmin rspec-rails,0 
+92,25818845,vector xcode6,0 
+92,28292996,python,0 
+92,2519436,ruby-on-rails redirect routes,0 
+92,1200621,java arrays,0 
+92,3089706,c# tuples,0 
+92,27135340,c# .net msmq windows-server-2012,0 
+92,853405,svn xcode status,0 
+92,21502335,haskell ghc,0 
+92,2445100,ruby-on-rails actionmailer,0 
+92,2628621,r scoping lexical-scope r-faq,0 
+92,19537673,python cython,0 
+92,19537311,scala sbt,0 
+92,13671031,javascript angularjs,0 
+92,17752014,javascript jquery html,0 
+92,11794269,android android-viewpager,0 
+92,97197,orm select-n-plus-1,0 
+92,20988613,java arraylist java.util.scanner,0 
+92,21123415,git,0 
+92,2427883,java clone copy-constructor,0 
+92,16483560,javascript html dom data-binding,0 
+92,9620586,javascript function ecmascript-6,0 
+92,18746929,ios uitableview autolayout,0 
+92,20915661,java comparable,0 
+92,15983872,multithreading process operating-system theory,0 
+92,15210548,android font-awesome,0 
+92,4335577,python django celery celery-task,0 
+92,7149239,javascript jquery plugins,0 
+92,3497123,git bash,0 
+92,1657017,git rebase git-rebase squash git-rewrite-history,0 
+92,9983868,javascript html5 internet-explorer-8 contenteditable rangy,0 
+92,20218279,java data-structures map hashmap treemap,0 
+92,27543565,schema.org,0 
+92,3376562,c++ windows multithreading architecture multiprocess,0 
+92,19834842,android android-intent android-gallery android-contentresolver,0 
+92,18951093,ios ios7,0 
+92,25507761,java web-services soap cxf,0 
+92,3344341,iphone objective-c cocoa-touch,0 
+92,7259906,java multithreading threadpool resteasy thread-local,0 
+92,7501413,ios video thumbnails,0 
+92,9119999,delphi pipe windows-shell shellexecute,0 
+92,184618,comments,0 
+92,4192887,design-patterns architecture,0 
+92,3305088,android android-activity android-intent notifications resume,0 
+92,12445190,ios ios6,0 
+92,316352,java final,0 
+92,11927542,sockets unix cat,0 
+92,655891,java utf-8 iso-8859-1,0 
+92,20611291,symfony2 captcha,0 
+92,7298731,android context,0 
+92,2347384,java database jdbc guice,0 
+92,3795477,emacs elisp,0 
+92,12319758,javascript angularjs,0 
+92,4909578,javascript namespaces global-variables,0 
+92,25766747,ios objective-c xcode autolayout,0 
+92,21280652,java concurrency junit4,0 
+92,20123610,java eclipse intellij-idea command run-configuration,0 
+92,20168898,android eclipse,0 
+92,13545433,javascript html5 autocomplete syntax-highlighting ace-editor,0 
+92,3439316,jquery internet-explorer internet-explorer-8 trim,0 
+92,17674634,android,0 
+92,21320034,api rest symfony2,0 
+92,17330160,python properties decorator python-internals,0 
+92,12940831,ios webkit nsurlconnection long-polling server-sent-events,0 
+92,9440639,windows-7 terminal sublimetext,0 
+92,12561758,ios ipad ssl https fiddler,0 
+92,9253323,java oracle hibernate spring blob,0 
+92,2378402,java json comparison gson jackson,0 
+92,127040,firefox dom safari google-chrome clipboard,0 
+92,34571,java unit-testing junit tdd private,0 
+92,21999433,python matplotlib nose nosetests,0 
+92,24710818,node.js git package yeoman chocolatey,0 
+92,21174681,git sbt,0 
+92,19442616,git git-clean,0 
+92,4312613,iphone ios4,0 
+92,1140089,javascript anonymous-function iife,0 
+92,1899792,git git-submodules,0 
+92,6178583,java maven junit junit4 maven-3,0 
+92,6086334,java exception constructor,0 
+92,2785485,java android uniqueidentifier,0 
+92,4181884,html css internet-explorer-7 pseudo-element,0 
+92,26445998,google-api hangout,0 
+92,14830334,jquery zepto,0 
+92,7323191,r label key ggplot2,0 
+92,11854514,angularjs,0 
+92,871,svn git,0 
+92,1690404,oracle constraints sql-drop,0 
+92,5186729,delphi flicker doublebuffered tpanel paintbox,0 
+92,19754085,web akka distributed high-availability failover,0 
+92,6061092,iphone ios video audio avassetwriter,0 
+92,12808084,iphone ios xcode quartz-graphics drawrect,0 
+92,149274,performance http https,0 
+92,1697084,android textview,0 
+92,23223308,google-compute-engine,0 
+92,24437564,java android eclipse adt,0 
+92,9475893,asp.net-mvc-4 asp.net-optimization,0 
+92,3971841,javascript jquery image resize,0 
+92,20989055,java exception command-line console stack-trace,0 
+92,1377446,python html django pdf pdf-generation,0 
+92,4884369,jquery jquery-plugins,0 
+92,12002632,java out-of-memory mtom soaphandler,0 
+92,22736141,google-apps-script google-drive-sdk,0 
+92,13146553,gps ios-simulator emulation gpx,0 
+92,320096,django django-models concurrency transactions atomic,0 
+93,12403283,c# asp.net-mvc asp.net-mvc-3 model-view-controller command,0 
+93,15210548,android font-awesome,0 
+93,18287482,javascript angularjs,0 
+93,16182993,javascript jquery firefox browser webkit,0 
+93,2856502,css firefox font-face,0 
+94,11165895,php web-scraping strip-tags,0 
+94,25618873,spring soap cxf spring-boot,0 
+94,23249807,django django-middleware django-messages,0 
+94,12916539,php twitter,0 
+94,19165897,javascript angularjs data-binding,0 
+96,11639480,objective-c afnetworking,0 
+96,17022274,android android-intent,0 
+96,22937618,regex,0 
+96,23264044,json rest spring-data spring-data-jpa spring-data-rest,0 
+96,2846653,python multithreading sample,0 
+96,2699902,ruby,0 
+96,448673,emulator c64,0 
+96,53664,vim vi,0 
+96,27120992,javascript regex,0 
+96,18674533,cocoa long-polling server-sent-events cocoahttpserver,0 
+97,15777836,python amazon-ec2 scipy remote-access,0 
+97,24541262,java intellij-idea,0 
+97,2183240,java arrays integer byte,0 
+97,1163173,java maven ant build-process gradle,0 
+97,24790002,javascript google-chrome-devtools,0 
+98,2427883,java clone copy-constructor,0 
+98,18875486,angularjs scope,0 
+98,20809998,haskell ghc dependent-type,0 
+98,19296595,android nfc mifare apdu,0 
+98,9988932,java design-patterns asynchronous,0 
+99,7557364,windows node.js exe,0 
+99,27400059,centos tmux,0 
+99,1445233,java generics,0 
+99,3590000,java multithreading,0 
+99,14468704,jquery-1.9,0 
+99,128035,git proxy,0 
+99,24811051,templates polymer,0 
+99,21627082,unity3d augmented-reality vuforia metaio,0 
+99,11807688,unix,0 
+99,4130922,python datetime,0 

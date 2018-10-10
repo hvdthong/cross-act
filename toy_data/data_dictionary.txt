@@ -1,0 +1,38 @@
+user_references.csv
+- uid: id of the user.
+- gh_id: GitHub id of the user.
+- so_id: Stack Overflow id of the user.
+
+
+users.csv
+- uid: id of the user
+- has_gh: indicate '1' if the user has a GitHub account, '0' for otherwise.
+- has_so: indicate '1' if the user has a Stack Overflow account, '0' for otherwise.
+
+
+user_answer_training.csv | user_answer_test.csv 
+- uid: id of the user 
+- qid: id of the question answered
+- tags: tags of the question answered
+- pos/neg: indicate '1' if the instance is positive, '0' for negative.
+
+
+user_favorite_training.csv | user_favorite_test.csv 
+- uid: id of the user 
+- qid: id of the question favorited
+- tags: tags of the question favorited
+- pos/neg: indicate '1' if the instance is positive, '0' for negative.
+
+
+user_fork_training.csv | user_fork_test.csv 
+- uid: id of the user 
+- qid: id of the repository forked
+- tags: tags of the repository forked
+- pos/neg: indicate '1' if the instance is positive, '0' for negative.
+
+
+user_watch_training.csv | user_watch_test.csv 
+- uid: id of the user 
+- qid: id of the repository watched
+- tags: tags of the repository watched
+- pos/neg: indicate '1' if the instance is positive, '0' for negative.
