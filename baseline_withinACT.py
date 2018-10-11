@@ -1,6 +1,7 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 import numpy as np
+from sklearn.metrics import average_precision_score
 
 
 def load_data(path):
@@ -31,14 +32,28 @@ def baseline_model(X_train, y_train, X_test, y_test, name):
     X_train_trans = vectorizer.transform(X_train)
     X_test_trans = vectorizer.transform(X_test)
     y_train = np.array(y_train)
-    print X_train_trans.shape, X_test_trans.shape
-    print y_train.shape
 
     if name == 'lr':
         model = LogisticRegression().fit(X=X_train_trans, y=y_train)
 
-    pred = model.predict_proba(X_test_trans)
-    print pred.shape
+    pred = model.predict_proba(X_test_trans)[:, 1]
+    return pred
+
+
+def average_precision(u_id, labels, predicted):
+    label, prediction = list(), list()
+    for id in u_id:
+        label.append(labels[id])
+        prediction.append(predicted[id])
+    return average_precision_score(y_true=label, y_score=prediction)
+
+
+def MAP_users(users, labels, predicted):
+    avgs = list()
+    for k in users.keys():
+        if len(users[k]) >= 10:
+            avgs.append(average_precision(u_id=users[k], labels=labels, predicted=predicted))
+    return sum(avgs) / len(avgs)
 
 
 if __name__ == '__main__':
@@ -51,6 +66,8 @@ if __name__ == '__main__':
     print len(test_features), len(test_lables)
 
     test_users_repos = load_users_repos_data(path=test_path)
-
     name = 'lr'
-    baseline_model(X_train=train_features, y_train=train_lables, X_test=test_features, y_test=test_lables, name=name)
+    y_pred = baseline_model(X_train=train_features, y_train=train_lables, X_test=test_features, y_test=test_lables,
+                            name=name)
+    score = MAP_users(users=test_users_repos, labels=test_lables, predicted=y_pred)
+    print score
