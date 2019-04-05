@@ -20,7 +20,7 @@ def load_data(path):
 def load_users_repos_data(path):
     data = open(path, 'r').readlines()
     users_id = dict()
-    for i in xrange(len(data)):
+    for i in range(len(data)):
         splits = data[i].split(",")
         u_id = splits[0]
         if u_id in users_id:
@@ -70,14 +70,14 @@ if __name__ == '__main__':
     # train_path = './toy_data/training/user_fork_training.csv'
     # train_path = './toy_data/training/user_watch_training.csv'
     train_features, train_lables = load_data(path=train_path)
-    print len(train_features), len(train_lables)
+    print(len(train_features), len(train_lables))
 
     test_path = './toy_data/test/user_answer_testing.csv'
     # test_path = './toy_data/test/user_favorite_testing.csv'
     # test_path = './toy_data/test/user_fork_testing.csv'
     # test_path = './toy_data/test/user_watch_testing.csv'
     test_features, test_lables = load_data(path=test_path)
-    print len(test_features), len(test_lables)
+    print(len(test_features), len(test_lables))
 
     test_users_repos = load_users_repos_data(path=test_path)
     # name = 'lr'
@@ -86,4 +86,4 @@ if __name__ == '__main__':
     y_pred = baseline_model(X_train=train_features, y_train=train_lables, X_test=test_features, y_test=test_lables,
                             name=name)
     score = MAP_users(users=test_users_repos, labels=test_lables, predicted=y_pred)
-    print score
+    print(score)
